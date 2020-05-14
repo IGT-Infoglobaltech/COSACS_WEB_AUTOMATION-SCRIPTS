@@ -1,0 +1,29 @@
+
+
+
+{
+	"locationData": 
+	{
+		"cos01": 
+		{
+			
+			"Title"		:"Cosacs",
+			"ExpectedLabel"	:"Create Location",
+     			"LocationId"   	:"18110",  
+      		"SalesSystemId"  :"302",
+      		"Name"    :  	"CanBeraBeach",
+     			 "AddressLine1"   :   "#233 st.Road Austria",
+			"AddressLine2"   :   	"#233 st.Road Austria",
+			"City"   :    		"mumbai",
+			"PostalCode"   	:    	"568896",
+			"ContactSearch"   :   "Ho",
+			"ContactSelect"   :   "WorkPhone",
+			"ContactDeatils"   :  "9966554232",
+			"UserInfoMessage"   :	"Location saved 				successfully",
+			"Warehouse"	:"Yes",
+			"Active"		:"Yes",
+			"Virtual"		:"Yes"
+			
+		}
+	}
+}

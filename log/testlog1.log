@@ -1,0 +1,1664 @@
+2020-04-22 05:24:41,896 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:24:41,901 [main] INFO cosac - User is in Create Location Page
+2020-04-22 05:24:46,615 [main] INFO cosac - User Filled the Location Creation form successfully
+2020-04-22 05:24:49,762 [main] INFO cosac - Location Creation Message-->Location saved successfully
+2020-04-22 05:24:49,907 [main] INFO cosac - User validated Locationvalue successfully-->131012
+2020-04-22 05:24:49,907 [main] INFO cosac - User is able to Create Location successfully
+2020-04-22 05:24:52,240 [main] INFO cosac - User is in Location Search Page
+2020-04-22 05:24:58,656 [main] INFO cosac - User Validated LocationName successfully-->Arunodaya
+2020-04-22 05:24:58,689 [main] INFO cosac - User  Validated Sales SystemId successfully-->306
+2020-04-22 05:24:58,722 [main] INFO cosac - User  Validated warehouse Status successfully-->Yes
+2020-04-22 05:24:58,753 [main] INFO cosac - User  Validated Active Status successfully-->Yes
+2020-04-22 05:24:58,798 [main] INFO cosac - User  Validated Virtual Status successfully-->Yes
+2020-04-22 05:24:58,798 [main] INFO cosac - User successfully Validated Location Search 
+2020-04-22 05:25:05,273 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:25:05,281 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 05:25:07,262 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:25:07,264 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 05:25:14,624 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 05:25:16,784 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-04-22 05:25:23,261 [main] INFO cosac - Toast TagMessage is --->
+2020-04-22 05:25:30,132 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:25:30,139 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 05:25:31,626 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 05:25:31,627 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 05:34:19,008 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:34:19,110 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 05:34:20,717 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:34:27,397 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 05:34:29,550 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-04-22 05:34:35,999 [main] INFO cosac - Toast TagMessage is --->
+2020-04-22 05:34:42,147 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:34:42,154 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 05:34:43,584 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 05:34:43,585 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 05:38:38,412 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:38:38,489 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 05:38:40,039 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:38:46,789 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 05:39:52,906 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:39:52,976 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 05:39:55,168 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:40:01,780 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 05:40:03,915 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-04-22 05:40:10,411 [main] INFO cosac - Toast TagMessage is --->
+2020-04-22 05:49:13,729 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 05:49:13,805 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 05:49:15,367 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 05:49:22,198 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 05:49:24,332 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-04-22 05:49:30,788 [main] INFO cosac - Toast TagMessage is --->
+2020-04-22 05:51:31,711 [main] INFO cosac - Test Failed
+2020-04-22 05:51:35,319 [main] INFO cosac - User is in Vendor searchPage 
+2020-04-22 05:51:38,611 [main] INFO cosac - VendorCode-->201592
+2020-04-22 05:51:38,649 [main] INFO cosac - VendorName-->ELECTRICALSTrader
+2020-04-22 05:51:38,681 [main] INFO cosac - Vendortype-->Local
+2020-04-22 05:51:38,727 [main] INFO cosac - VendorStatus-->Active
+2020-04-22 06:02:46,237 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:02:46,250 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:02:48,874 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:02:48,875 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:05:01,652 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:05:01,664 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:05:03,676 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:05:03,677 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:08:01,019 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:08:01,030 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:08:02,771 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:08:02,771 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:09:43,880 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:09:43,890 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:09:45,302 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:09:45,302 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:13:02,040 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:13:02,050 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:13:03,928 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:13:03,930 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:18:09,606 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:18:09,699 [main] INFO cosac - User verified HomePage Title successfully
+2020-04-22 06:18:11,294 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-04-22 06:18:18,479 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-04-22 06:18:20,632 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-04-22 06:18:29,222 [main] INFO cosac - Toast TagMessage is --->Vendor tag saved successfully
+2020-04-22 06:18:29,332 [main] INFO cosac - User successfully validated vendorName
+2020-04-22 06:18:29,333 [main] INFO cosac - User is able to Create Local vendor
+2020-04-22 06:18:34,779 [main] INFO cosac - User is in Vendor searchPage 
+2020-04-22 06:18:38,029 [main] INFO cosac - VendorCode-->201593
+2020-04-22 06:18:38,077 [main] INFO cosac - VendorName-->ELECTROTrader
+2020-04-22 06:18:38,113 [main] INFO cosac - Vendortype-->Local
+2020-04-22 06:18:38,158 [main] INFO cosac - VendorStatus-->Active
+2020-04-22 06:18:38,202 [main] INFO cosac - User successfully Validated Local_Vendor Search
+2020-04-22 06:18:45,278 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 06:18:45,285 [main] INFO cosac - User verified Page Title successfully
+2020-04-22 06:18:46,961 [main] INFO cosac - User verified Vendor Label successfully
+2020-04-22 06:18:46,962 [main] INFO cosac - User is in Create Vendor Page
+2020-04-22 06:19:01,005 [main] INFO cosac - User is able to Create vendor
+2020-04-22 06:19:12,818 [main] INFO cosac - User has successfully Validated CARICOM_Vendor Search
+2020-04-22 06:19:53,132 [main] INFO cosac - Test Failed
+2020-04-22 06:24:22,602 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-04-22 06:24:59,086 [main] INFO cosac - ProductCode -->401035
+2020-04-22 06:24:59,286 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-04-22 06:27:01,979 [main] INFO cosac - Test Failed
+2020-04-22 06:27:41,822 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-04-22 06:27:55,602 [main] INFO cosac - ProductCode -->401035
+2020-04-22 06:27:55,739 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-04-22 06:29:58,298 [main] INFO cosac - Test Failed
+2020-04-22 08:46:09,640 [main] INFO cosac - User clicked on merchandising
+2020-04-22 08:46:10,902 [main] INFO cosac - User clicked on product enquiry
+2020-04-22 08:46:12,359 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-04-22 08:46:13,482 [main] INFO cosac - User entered the product code
+2020-04-22 08:51:19,541 [main] INFO cosac - User clicked on merchandising
+2020-04-22 08:51:23,125 [main] INFO cosac - User clicked on product enquiry
+2020-04-22 08:51:25,179 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-04-22 08:51:25,602 [main] INFO cosac - User entered the product code
+2020-04-22 08:51:27,720 [main] INFO cosac - User selected required product for next process
+2020-04-22 08:51:32,567 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-04-22 08:51:32,825 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-04-22 08:51:32,952 [main] INFO cosac - User noted the stockcount of the product
+2020-04-22 08:51:33,066 [main] INFO cosac - clicked on merchandising
+2020-04-22 08:51:33,356 [main] INFO cosac - clicked on direct receipt
+2020-04-22 08:51:37,386 [main] INFO cosac - USer successfully logged into Direct Receipt page
+2020-04-22 08:51:41,120 [main] INFO cosac - User successfully selected the receiving location
+2020-04-22 08:51:44,785 [main] INFO cosac - User successfully selected the vendor
+2020-04-22 08:51:45,109 [main] INFO cosac - User successfully selected the receiving person
+2020-04-22 08:51:45,292 [main] INFO cosac - User successfully entered the vendor referance number
+2020-04-22 08:51:45,526 [main] INFO cosac - User successfully entered the vendor invoice number
+2020-04-22 08:51:49,189 [main] INFO cosac - User successfully selected the referance option
+2020-04-22 08:51:49,390 [main] INFO cosac - User successfully entered contacts details
+2020-04-22 08:51:49,824 [main] INFO cosac - User successfully updated comment details
+2020-04-22 08:51:55,289 [main] INFO cosac - User successfully entered product code and selected
+2020-04-22 08:51:55,428 [main] INFO cosac - User successfully entered product code and selected
+2020-04-22 08:51:55,761 [main] INFO cosac - User successfully updated comment details of product
+2020-04-22 08:51:55,882 [main] INFO cosac - product added successfully
+2020-04-22 08:51:56,002 [main] INFO cosac - User successfully clicked on create receipt button
+2020-04-22 08:51:56,002 [main] INFO cosac - User successfully logged into directreceipt page for approval
+2020-04-22 08:52:05,438 [main] INFO cosac - User successfully clicked on approved button
+2020-04-22 08:52:05,563 [main] INFO cosac - User successfully clicked on print cost button for printing
+2020-04-22 08:52:09,673 [main] INFO cosac - Clicked on ok button for confirmation
+2020-04-22 08:52:13,696 [main] INFO cosac - User is now successfully switched back to main page from print page
+2020-04-22 08:52:15,818 [main] INFO cosac - User is in Product Enquiry page
+2020-04-22 08:52:22,869 [main] INFO cosac - USer is in sapre part maintenance page
+2020-04-22 08:52:22,999 [main] INFO cosac - User successfully noted the stock value after DRN generated
+2020-04-22 08:52:22,999 [main] INFO cosac - User successfully validated teh total quantity added to the location
+2020-04-22 08:52:23,099 [main] INFO cosac - User is in Home Page
+2020-04-22 08:55:11,105 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 08:55:13,065 [main] INFO cosac - User Clicked on Top Sku reports
+2020-04-22 08:55:13,544 [main] INFO cosac - User is in Top SKU Reports Page
+2020-04-22 08:55:13,905 [main] INFO cosac - User Selected from date and to date successfully
+2020-04-22 08:56:41,503 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-04-22 08:56:43,442 [main] INFO cosac - Test Failed
+2020-04-22 08:56:49,759 [main] INFO cosac - User verified Company Logo successfully
+2020-04-22 08:56:49,996 [main] INFO cosac - User has verified Page Title successfully
+2020-04-22 08:56:50,075 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 08:56:51,462 [main] INFO cosac - User Clicked on Product Hierarchy
+2020-04-22 08:56:51,525 [main] INFO cosac - User validated Product Hierarchy Label successfully
+2020-04-22 08:56:58,804 [main] INFO cosac - User clicked on Division save button
+2020-04-22 08:56:58,904 [main] INFO cosac - User  Created Division successfully and Message is-->Tag GlassItems created under Level Division
+2020-04-22 08:57:05,772 [main] INFO cosac - User  Created Department successfully and Message is -->Tag WindowGlass created under Level Department
+2020-04-22 08:57:11,974 [main] INFO cosac - User  Created Clas successfully and Message is-->Tag WGlassplate created under Level Class
+2020-04-22 08:57:11,975 [main] INFO cosac - User  Created Division,Department,Class successfully 
+2020-04-22 09:01:44,435 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:01:45,649 [main] INFO cosac - User Clicked on Top Sku reports
+2020-04-22 09:01:46,069 [main] INFO cosac - User is in Top SKU Reports Page
+2020-04-22 09:01:46,576 [main] INFO cosac - User Selected from date and to date successfully
+2020-04-22 09:01:57,487 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-04-22 09:01:57,618 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-04-22 09:03:45,313 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:03:47,364 [main] INFO cosac - User Clicked on Top Sku reports
+2020-04-22 09:03:47,703 [main] INFO cosac - User is in Top SKU Reports Page
+2020-04-22 09:03:48,159 [main] INFO cosac - User Selected from date and to date successfully
+2020-04-22 09:03:58,690 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-04-22 09:03:58,813 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-04-22 09:04:16,349 [main] INFO cosac - Test Failed
+2020-04-22 09:06:17,389 [main] INFO cosac - Test Failed
+2020-04-22 09:29:51,870 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:29:53,448 [main] INFO cosac - User Clicked on Top Sku reports
+2020-04-22 09:29:54,137 [main] INFO cosac - User is in Top SKU Reports Page
+2020-04-22 09:29:54,650 [main] INFO cosac - User Selected from date and to date successfully
+2020-04-22 09:30:06,525 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-04-22 09:30:06,669 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-04-22 09:32:25,492 [main] INFO cosac - Test Failed
+2020-04-22 09:34:48,188 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:34:49,461 [main] INFO cosac - User Clicked on Top Sku reports
+2020-04-22 09:34:49,800 [main] INFO cosac - User is in Top SKU Reports Page
+2020-04-22 09:34:50,462 [main] INFO cosac - User Selected from date and to date successfully
+2020-04-22 09:35:00,964 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-04-22 09:35:01,032 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-04-22 09:35:31,190 [main] INFO cosac - Sku No in results found is-->AAT259
+2020-04-22 09:35:31,221 [main] INFO cosac - No of quantities available in results are -->5538
+2020-04-22 09:35:31,262 [main] INFO cosac - NetsaleValue in results is -->$ 0.00
+2020-04-22 09:35:31,363 [main] INFO cosac - User Clicked on Print Button successfully
+2020-04-22 09:35:32,443 [main] INFO cosac - Sku No in printpage is-->AAT259
+2020-04-22 09:35:32,483 [main] INFO cosac - No of quantities available in printpage are -->5538
+2020-04-22 09:35:32,511 [main] INFO cosac - NetsaleValue in printpage is -->$ 0.00
+2020-04-22 09:35:32,512 [main] INFO cosac - User navigated to print page and validated mandatory data
+2020-04-22 09:41:27,535 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-04-22 09:41:31,016 [main] INFO cosac - User is able to Select KPI
+2020-04-22 09:41:34,585 [main] INFO cosac - User is able to Select Location
+2020-04-22 09:41:37,972 [main] INFO cosac - User is able to Select Division
+2020-04-22 09:41:38,039 [main] INFO cosac - User is able to Click to Serch Report
+2020-04-22 09:42:15,366 [main] INFO cosac - User use able to se the Report with result Count: 144 results found.
+2020-04-22 09:42:25,775 [main] INFO cosac - Hide show button verified
+2020-04-22 09:42:28,903 [main] INFO cosac - User is able to click to Print Button, Print Verified
+2020-04-22 09:46:28,515 [main] INFO cosac - User Clicked to merchandising
+2020-04-22 09:46:32,941 [main] INFO cosac - User Clicked Product Enquiry
+2020-04-22 09:46:36,368 [main] INFO cosac - User is in Product Enquiry Page
+2020-04-22 09:46:36,535 [main] INFO cosac - User Selected Product Status
+2020-04-22 09:46:39,729 [main] INFO cosac - User Selected Product Type
+2020-04-22 09:46:41,154 [main] INFO cosac - User Clicked to Product
+2020-04-22 09:46:56,321 [main] INFO cosac - User able to comlete Export setting field
+2020-04-22 09:47:06,825 [main] INFO cosac - User verified Cost Pricing Field
+2020-04-22 09:47:16,803 [main] INFO cosac - User able to save retail pricieng details
+2020-04-22 09:47:25,381 [main] INFO cosac - User able to save Product Tax Overrides
+2020-04-22 09:53:59,733 [main] INFO cosac - User is in Stock Allocation Creation Page
+2020-04-22 09:54:07,428 [main] INFO cosac - User Selected OSU110
+2020-04-22 09:54:07,488 [main] INFO cosac - Product Name 0Z4J1307S - METAL REGULAR SUNGLASSES is displayed in the description
+2020-04-22 09:54:07,548 [main] INFO cosac - Quantity Available 0 is displayed
+2020-04-22 09:54:07,797 [main] INFO cosac - The line cost is 56200
+2020-04-22 09:54:07,858 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-04-22 09:54:08,470 [main] INFO cosac - Success Message is ×
+Stock allocation saved.
+2020-04-22 09:54:08,471 [main] INFO cosac - User Created Stock Allocation Successfully
+2020-04-22 09:54:08,604 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:54:08,774 [main] INFO cosac - User Clicked on Search
+2020-04-22 09:54:08,879 [main] INFO cosac - User Clicked on StockAllocations
+2020-04-22 09:54:09,327 [main] INFO cosac - User clicked on Search Button
+2020-04-22 09:54:09,765 [main] INFO cosac - Shipment ID is #4028955
+2020-04-22 09:54:09,766 [main] INFO cosac - Stock Allocation Creation and Search is Successfull
+2020-04-22 09:56:24,281 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 09:56:24,470 [main] INFO cosac - User Clicked on Search
+2020-04-22 09:56:26,424 [main] INFO cosac - User Clicked on Goods Receipts
+2020-04-22 09:56:26,510 [main] INFO cosac - User is in Goods Receipts Search Page
+2020-04-22 09:56:32,891 [main] INFO cosac - User is in Goods Link Page
+2020-04-22 09:56:41,884 [main] INFO cosac - Success Message is ×
+Vendor return created
+2020-04-22 09:56:46,050 [main] INFO cosac - Success Message is ×
+Return to vendor approved successfully
+×
+Vendor return created
+2020-04-22 09:56:46,082 [main] INFO cosac - The page title is Vendor Return #1099
+2020-04-22 09:56:46,082 [main] INFO cosac - The Random Number generated is #1099
+2020-04-22 09:56:48,997 [main] INFO cosac - User clicked on Search Button
+2020-04-22 09:56:51,067 [main] INFO cosac - The Search ID of the product returned is-->#1099
+2020-04-22 09:56:51,110 [main] INFO cosac - The Status of the Vendor return Product is--> Approved
+2020-04-22 09:56:51,163 [main] INFO cosac - The Created Date of the Vendor return Product is--> 22 Apr 2020
+2020-04-22 09:56:51,217 [main] INFO cosac - The Vendor of the Vendor return Product is--> REGAL WORLDWIDE TRADE
+2020-04-22 09:56:51,258 [main] INFO cosac - The Sending Location of the Vendor return Product is--> SANTA ROSA
+2020-04-22 09:56:51,304 [main] INFO cosac - The Receipt Type of the Vendor return Product is--> Standard
+2020-04-22 09:56:51,358 [main] INFO cosac - The Goods Receipt ID of the Vendor return Product is--> #43564
+2020-04-22 09:56:51,409 [main] INFO cosac - The Total Cost of the Vendor return Product is--> $ 1,637.76
+2020-04-22 10:01:47,908 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 10:01:48,105 [main] INFO cosac - User Clicked on Create
+2020-04-22 10:01:49,317 [main] INFO cosac - User Clicked on StockRequisition
+2020-04-22 10:01:49,829 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-04-22 10:01:50,766 [main] INFO cosac - Text-->TOBAGO W/HOUSE
+2020-04-22 10:01:52,907 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-04-22 10:01:53,323 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-04-22 10:01:57,602 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-04-22 10:01:58,299 [main] INFO cosac - SKU number is SST6E5
+2020-04-22 10:01:58,357 [main] INFO cosac - Description of Product is G11285 - QUICK ERASE CLEANING SPONGE 2PK
+2020-04-22 10:01:58,407 [main] INFO cosac - Comments is Testing
+2020-04-22 10:01:58,459 [main] INFO cosac - The line cost is 3500
+2020-04-22 10:01:58,517 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-04-22 10:01:58,893 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-04-22 10:01:58,894 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-04-22 10:01:59,012 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 10:01:59,193 [main] INFO cosac - User Clicked on Search
+2020-04-22 10:01:59,297 [main] INFO cosac - User Clicked on StockRequisitions
+2020-04-22 10:02:00,063 [main] INFO cosac - Shipment ID is #4028956
+2020-04-22 10:02:00,063 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-04-22 10:02:24,559 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 10:02:24,759 [main] INFO cosac - User Clicked on Create
+2020-04-22 10:02:25,862 [main] INFO cosac - User Clicked on StockRequisition
+2020-04-22 10:02:26,173 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-04-22 10:02:26,804 [main] INFO cosac - Text-->TOBAGO W/HOUSE
+2020-04-22 10:02:28,944 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-04-22 10:02:29,446 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-04-22 10:02:33,963 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-04-22 10:02:34,427 [main] INFO cosac - SKU number is SST6E5
+2020-04-22 10:02:34,495 [main] INFO cosac - Description of Product is G11285 - QUICK ERASE CLEANING SPONGE 2PK
+2020-04-22 10:02:34,543 [main] INFO cosac - Comments is Testing
+2020-04-22 10:02:34,600 [main] INFO cosac - The line cost is 3500
+2020-04-22 10:02:34,637 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-04-22 10:02:34,948 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-04-22 10:02:34,949 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-04-22 10:02:35,037 [main] INFO cosac - User Clicked on Merchandising
+2020-04-22 10:02:35,213 [main] INFO cosac - User Clicked on Search
+2020-04-22 10:02:35,322 [main] INFO cosac - User Clicked on StockRequisitions
+2020-04-22 10:02:36,009 [main] INFO cosac - Shipment ID is #4028956
+2020-04-22 10:02:36,010 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-04-23 05:03:38,224 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-04-23 05:05:09,237 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-04-23 05:05:22,745 [main] INFO cosac - ProductCode -->5020D2
+2020-04-23 05:05:22,862 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-04-23 05:05:28,883 [main] INFO cosac - onhand quantity in recieving location are-->0
+2020-04-23 05:05:28,913 [main] INFO cosac - available quantity in recieving location are-->-1
+2020-04-23 05:05:28,953 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-04-23 05:05:28,995 [main] INFO cosac - User switched to parent window
+2020-04-23 05:05:29,028 [main] INFO cosac - Purchage order No -->29447
+2020-04-23 05:05:29,064 [main] INFO cosac -  Quantity pending -->60
+2020-04-23 05:05:36,216 [main] INFO cosac - Back order Quantity-->59
+2020-04-23 05:05:38,156 [main] INFO cosac - Test Failed
+2020-04-23 07:26:39,672 [main] INFO cosac - User is clicked on Merchandising
+2020-04-23 07:26:39,850 [main] INFO cosac - User is clicked on Create
+2020-04-23 07:26:41,454 [main] INFO cosac - User clicked on Regularstock
+2020-04-23 07:26:45,031 [main] INFO cosac - Page Title is Verified Successfully
+2020-04-23 07:26:59,308 [main] INFO cosac - !!!Duplicate Product!!!
+2020-04-23 07:27:52,882 [main] INFO cosac - User is clicked on Merchandising
+2020-04-23 07:27:53,055 [main] INFO cosac - User is clicked on Create
+2020-04-23 07:27:55,158 [main] INFO cosac - User clicked on Regularstock
+2020-04-23 07:27:59,805 [main] INFO cosac - Page Title is Verified Successfully
+2020-04-23 07:28:20,607 [main] INFO cosac - Product Saved Successfully
+2020-04-23 07:28:20,693 [main] INFO cosac - SKU is Verified Successfully
+2020-04-23 07:29:12,180 [main] INFO cosac - Product hirarchy is Saved Successfully 
+2020-04-23 07:29:23,173 [main] INFO cosac - Cost Price Saved Successfully
+2020-04-23 07:29:43,979 [main] INFO cosac - Retail Price Added Successfully
+2020-04-23 07:29:43,979 [main] INFO cosac - Product Details Saved Successfully
+2020-04-23 07:29:43,980 [main] INFO cosac - **EOD JOB IS REQUIRED TO UPDATE STATUS**
+2020-04-23 07:29:44,159 [main] INFO cosac - User clicked on Merchandising
+2020-04-23 07:29:44,315 [main] INFO cosac - User clicked on Search
+2020-04-23 07:29:44,458 [main] INFO cosac - User clicked on Product Enquiry
+2020-04-23 07:29:46,323 [main] INFO cosac - Page Title is Verified Successfully
+2020-04-23 07:29:50,873 [main] INFO cosac - User Verified Product Status Successfully
+2020-04-23 08:04:56,076 [main] INFO cosac - User able to click on Merchandising
+2020-04-23 08:04:56,275 [main] INFO cosac - User able to click on Create
+2020-04-23 08:04:57,518 [main] INFO cosac - User able to click on Purchase Order
+2020-04-23 08:05:00,193 [main] INFO cosac - Page Title is Verified Successfully
+2020-04-23 08:05:31,766 [main] INFO cosac - Purchase Order Created Successfully
+2020-04-23 08:05:36,970 [main] INFO cosac - Purchase Order Receipt is Verified Successfully
+2020-04-23 08:05:40,115 [main] INFO cosac - User able to click on Merchandising
+2020-04-23 08:05:40,250 [main] INFO cosac - User able to click on Search
+2020-04-23 08:05:40,337 [main] INFO cosac - User able to click on Purchase Orders
+2020-04-23 08:05:42,384 [main] INFO cosac - Page Title is Verified Successfully
+2020-04-23 08:05:45,328 [main] INFO cosac - Purchase Order Status is Verified Successfully
+2020-05-06 01:17:00,976 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 01:17:01,189 [main] INFO cosac - User able to click on Create
+2020-05-06 01:17:02,506 [main] INFO cosac - User able to click on Purchase Order
+2020-05-06 01:17:05,059 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:17:07,107 [main] INFO cosac - Test Failed
+2020-05-06 01:17:51,581 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 01:17:51,752 [main] INFO cosac - User able to click on Create
+2020-05-06 01:17:53,723 [main] INFO cosac - User able to click on Purchase Order
+2020-05-06 01:17:56,109 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:17:58,080 [main] INFO cosac - Test Failed
+2020-05-06 01:18:37,567 [main] INFO cosac - User is clicked on Merchandising
+2020-05-06 01:18:37,717 [main] INFO cosac - User is clicked on Create
+2020-05-06 01:18:38,963 [main] INFO cosac - User clicked on Regularstock
+2020-05-06 01:18:40,884 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:19:03,077 [main] INFO cosac - Product Saved Successfully
+2020-05-06 01:19:03,145 [main] INFO cosac - SKU is Verified Successfully
+2020-05-06 01:21:28,783 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 01:21:28,937 [main] INFO cosac - User able to click on Create
+2020-05-06 01:21:29,919 [main] INFO cosac - User able to click on Purchase Order
+2020-05-06 01:21:32,351 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:21:34,242 [main] INFO cosac - Test Failed
+2020-05-06 01:22:42,489 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-06 01:22:42,493 [main] INFO cosac - User is in Create Location Page
+2020-05-06 01:22:46,900 [main] INFO cosac - User Filled the Location Creation form successfully
+2020-05-06 01:22:50,020 [main] INFO cosac - Location Creation Message-->Location saved successfully
+2020-05-06 01:22:50,150 [main] INFO cosac - User validated Locationvalue successfully-->131012
+2020-05-06 01:22:50,150 [main] INFO cosac - User is able to Create Location successfully
+2020-05-06 01:22:52,469 [main] INFO cosac - User is in Location Search Page
+2020-05-06 01:22:58,498 [main] INFO cosac - User Validated LocationName successfully-->Arunodaya
+2020-05-06 01:22:58,529 [main] INFO cosac - User  Validated Sales SystemId successfully-->306
+2020-05-06 01:22:58,561 [main] INFO cosac - User  Validated warehouse Status successfully-->Yes
+2020-05-06 01:22:58,607 [main] INFO cosac - User  Validated Active Status successfully-->Yes
+2020-05-06 01:22:58,654 [main] INFO cosac - User  Validated Virtual Status successfully-->Yes
+2020-05-06 01:22:58,654 [main] INFO cosac - User successfully Validated Location Search 
+2020-05-06 01:23:04,798 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:23:04,823 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-06 01:23:06,593 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-06 01:23:13,424 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-05-06 01:23:15,554 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-05-06 01:23:21,946 [main] INFO cosac - Toast TagMessage is --->
+2020-05-06 01:23:28,601 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:23:28,607 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:23:30,056 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:23:30,056 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:23:54,165 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 01:24:46,453 [main] INFO cosac - ProductCode -->30100012
+2020-05-06 01:24:46,584 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-06 01:26:19,216 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 01:26:21,357 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-06 01:26:21,617 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-06 01:26:21,897 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-06 01:26:30,469 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-05-06 01:26:32,287 [main] INFO cosac - Test Failed
+2020-05-06 01:26:38,546 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:26:38,551 [main] INFO cosac - User has verified Page Title successfully
+2020-05-06 01:26:38,623 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 01:26:41,606 [main] INFO cosac - User Clicked on Product Hierarchy
+2020-05-06 01:26:41,680 [main] INFO cosac - User validated Product Hierarchy Label successfully
+2020-05-06 01:26:47,570 [main] INFO cosac - User clicked on Division save button
+2020-05-06 01:26:47,619 [main] INFO cosac - User  Created Division successfully and Message is-->Tag GlassItems created under Level Division
+2020-05-06 01:26:54,261 [main] INFO cosac - User  Created Department successfully and Message is -->Tag WindowGlass created under Level Department
+2020-05-06 01:26:59,851 [main] INFO cosac - User  Created Clas successfully and Message is-->Tag WGlassplate created under Level Class
+2020-05-06 01:26:59,860 [main] INFO cosac - User  Created Division,Department,Class successfully 
+2020-05-06 01:27:06,138 [main] INFO cosac - User clicked on merchandising
+2020-05-06 01:27:07,979 [main] INFO cosac - User clicked on product enquiry
+2020-05-06 01:27:08,911 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-06 01:27:09,635 [main] INFO cosac - User entered the product code
+2020-05-06 01:27:36,985 [main] INFO cosac - User is clicked on Merchandising
+2020-05-06 01:27:37,120 [main] INFO cosac - User is clicked on Create
+2020-05-06 01:27:38,406 [main] INFO cosac - User clicked on Regularstock
+2020-05-06 01:27:40,046 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:27:54,202 [main] INFO cosac - !!!Duplicate Product!!!
+2020-05-06 01:28:10,689 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 01:28:11,072 [main] INFO cosac - User able to click on Create
+2020-05-06 01:28:13,077 [main] INFO cosac - User able to click on Purchase Order
+2020-05-06 01:28:15,412 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 01:28:17,194 [main] INFO cosac - Test Failed
+2020-05-06 01:41:04,871 [main] INFO cosac - Test Failed
+2020-05-06 01:41:57,570 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:41:57,582 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:41:59,725 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:41:59,725 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:45:16,748 [main] INFO cosac - Test Failed
+2020-05-06 01:46:44,929 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:46:44,940 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:46:46,303 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:46:46,303 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:48:22,659 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:48:22,668 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:48:24,100 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:48:24,100 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:49:05,693 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:49:05,703 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:49:08,449 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:49:08,450 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:50:50,620 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:50:50,633 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:50:52,663 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:50:52,663 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:52:54,822 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:52:54,834 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:52:56,274 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:52:56,274 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:54:52,847 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:54:52,857 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:54:54,437 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:54:54,437 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 01:58:14,468 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 01:58:14,478 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 01:58:15,951 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 01:58:15,952 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 02:00:10,308 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 02:00:10,318 [main] INFO cosac - User verified Page Title successfully
+2020-05-06 02:00:11,721 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-06 02:00:11,722 [main] INFO cosac - User is in Create Vendor Page
+2020-05-06 02:00:25,128 [main] INFO cosac - User is able to Create vendor
+2020-05-06 02:00:36,893 [main] INFO cosac - User has successfully Validated CARICOM_Vendor Search
+2020-05-06 02:04:38,843 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 02:04:38,919 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-06 02:04:40,387 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-06 02:06:15,571 [main] INFO cosac - User verified Company Logo successfully
+2020-05-06 02:06:15,648 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-06 02:06:17,253 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-06 02:06:24,234 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-05-06 02:06:26,351 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-05-06 02:06:34,728 [main] INFO cosac - Toast TagMessage is --->Vendor tag saved successfully
+2020-05-06 02:06:34,823 [main] INFO cosac - User successfully validated vendorName
+2020-05-06 02:06:34,823 [main] INFO cosac - User is able to Create Local vendor
+2020-05-06 02:06:40,194 [main] INFO cosac - User is in Vendor searchPage 
+2020-05-06 02:06:43,466 [main] INFO cosac - VendorCode-->201596
+2020-05-06 02:06:43,493 [main] INFO cosac - VendorName-->DHARAWAD PEDA TRADER
+2020-05-06 02:06:43,523 [main] INFO cosac - Vendortype-->Local
+2020-05-06 02:06:43,558 [main] INFO cosac - VendorStatus-->Active
+2020-05-06 02:06:43,599 [main] INFO cosac - User successfully Validated Local_Vendor Search
+2020-05-06 02:10:57,138 [main] INFO cosac - Test Failed
+2020-05-06 02:12:57,533 [main] INFO cosac - Test Failed
+2020-05-06 02:13:43,581 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:13:57,594 [main] INFO cosac - ProductCode -->30100012
+2020-05-06 02:13:57,774 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-06 02:16:03,723 [main] INFO cosac - Test Failed
+2020-05-06 02:27:43,932 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:28:01,858 [main] INFO cosac - ProductCode -->30100012
+2020-05-06 02:28:01,976 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-06 02:28:12,947 [main] INFO cosac - onhand quantity in recieving location are-->3
+2020-05-06 02:28:12,978 [main] INFO cosac - available quantity in recieving location are-->0
+2020-05-06 02:28:13,009 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-05-06 02:28:13,052 [main] INFO cosac - User switched to parent window
+2020-05-06 02:28:13,088 [main] INFO cosac - Purchage order No -->21927
+2020-05-06 02:28:13,122 [main] INFO cosac -  Quantity pending -->216
+2020-05-06 02:28:20,247 [main] INFO cosac - Back order Quantity-->215
+2020-05-06 02:28:22,129 [main] INFO cosac - Test Failed
+2020-05-06 02:29:33,158 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:29:48,833 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:39:32,930 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:39:48,452 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:44:50,826 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:45:03,386 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:45:30,630 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:45:43,179 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:47:08,849 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:47:22,050 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:48:42,385 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:48:55,174 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 02:50:05,772 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-06 02:50:21,295 [main] INFO cosac - ProductCode -->30100012
+2020-05-06 02:50:21,413 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-06 02:50:31,668 [main] INFO cosac - onhand quantity in recieving location are-->3
+2020-05-06 02:50:31,786 [main] INFO cosac - available quantity in recieving location are-->0
+2020-05-06 02:50:31,817 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-05-06 02:50:31,886 [main] INFO cosac - User switched to parent window
+2020-05-06 02:50:31,916 [main] INFO cosac - Purchage order No -->21927
+2020-05-06 02:50:31,948 [main] INFO cosac -  Quantity pending -->216
+2020-05-06 02:50:39,092 [main] INFO cosac - Back order Quantity-->215
+2020-05-06 02:50:39,191 [main] INFO cosac - User clicked on Create reciept Button successfully
+2020-05-06 02:50:45,562 [main] INFO cosac - User got the Goods reciept No-->39226
+2020-05-06 02:50:48,729 [main] INFO cosac - User switched to new window GRN cost Page
+2020-05-06 02:50:48,755 [main] INFO cosac - User switched to new window Validated Goods reciept No
+2020-05-06 02:50:48,783 [main] INFO cosac - User switched to new window Validated Purchage order No
+2020-05-06 02:50:58,890 [main] INFO cosac - User switched to parent window
+2020-05-06 02:51:24,162 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-06 02:51:34,925 [main] INFO cosac - updated onhand quantity in recieving location are-->3
+2020-05-06 02:51:35,056 [main] INFO cosac - Updated available quantity in recieving location are-->0
+2020-05-06 02:51:35,103 [main] INFO cosac - Up dated On order quantity in recieving location are-->0
+2020-05-06 02:51:35,103 [main] INFO cosac - User Validated Updated quantity in recieving location
+2020-05-06 02:51:35,173 [main] INFO cosac - User switched to parent window
+2020-05-06 02:51:40,174 [main] INFO cosac - User is in goods reciept Page
+2020-05-06 04:55:11,354 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 04:55:11,513 [main] INFO cosac - User able to click on Create
+2020-05-06 04:55:13,281 [main] INFO cosac - User able to click on Purchase Order
+2020-05-06 04:55:15,692 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 04:55:47,612 [main] INFO cosac - Purchase Order Created Successfully
+2020-05-06 04:55:54,992 [main] INFO cosac - Purchase Order Receipt is Verified Successfully
+2020-05-06 04:55:58,089 [main] INFO cosac - User able to click on Merchandising
+2020-05-06 04:55:58,220 [main] INFO cosac - User able to click on Search
+2020-05-06 04:55:58,314 [main] INFO cosac - User able to click on Purchase Orders
+2020-05-06 04:56:00,346 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 04:56:03,135 [main] INFO cosac - Purchase Order Status is Verified Successfully
+2020-05-06 05:01:32,673 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 05:01:34,594 [main] INFO cosac - User Clicked on Spare Part
+2020-05-06 05:01:36,544 [main] INFO cosac - User are in Create Spare Part Page
+2020-05-06 05:01:36,930 [main] INFO cosac - User Entered Description
+2020-05-06 05:01:38,215 [main] INFO cosac - User Entered Long Description
+2020-05-06 05:01:38,484 [main] INFO cosac - User Entered PartNumber
+2020-05-06 05:01:38,934 [main] INFO cosac - User Entered Long Vendor Model Number
+2020-05-06 05:01:42,913 [main] INFO cosac - User Selected Primary Vendor
+2020-05-06 05:01:43,029 [main] INFO cosac - User is able to save Spare Party
+2020-05-06 05:02:01,398 [main] INFO cosac - User is able to search Product with product status: Non Active
+2020-05-06 05:03:19,683 [main] INFO cosac - Product Creation Starts
+2020-05-06 05:03:22,529 [main] INFO cosac - Test Failed
+2020-05-06 05:03:22,535 [main] INFO cosac - Product Validation Starts
+2020-05-06 05:07:21,955 [main] INFO cosac - Product Creation Starts
+2020-05-06 05:10:17,996 [main] INFO cosac - Test Failed
+2020-05-06 05:10:18,001 [main] INFO cosac - Product Validation Starts
+2020-05-06 05:10:19,788 [main] INFO cosac - Test Failed
+2020-05-06 05:11:30,497 [main] INFO cosac - Product Creation Starts
+2020-05-06 05:14:01,071 [main] INFO cosac - Product Creation Starts
+2020-05-06 05:16:20,657 [main] INFO cosac - Product Validation Starts
+2020-05-06 05:17:24,593 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-05-06 05:17:28,014 [main] INFO cosac - User is able to Select KPI
+2020-05-06 05:17:29,206 [main] INFO cosac - User is able to Select Location
+2020-05-06 05:17:30,694 [main] INFO cosac - Test Failed
+2020-05-06 07:22:48,063 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-05-06 07:22:51,554 [main] INFO cosac - User is able to Select KPI
+2020-05-06 07:22:54,944 [main] INFO cosac - User is able to Select Location
+2020-05-06 07:22:58,263 [main] INFO cosac - User is able to Select Division
+2020-05-06 07:22:58,351 [main] INFO cosac - User is able to Click to Serch Report
+2020-05-06 07:23:25,037 [main] INFO cosac - User use able to se the Report with result Count: 48 results found.
+2020-05-06 07:23:35,165 [main] INFO cosac - Hide show button verified
+2020-05-06 07:23:38,244 [main] INFO cosac - User is able to click to Print Button, Print Verified
+2020-05-06 07:38:10,439 [main] INFO cosac - User is clicked on Merchandising
+2020-05-06 07:38:10,596 [main] INFO cosac - User is clicked on Create
+2020-05-06 07:38:13,259 [main] INFO cosac - User clicked on Regularstock
+2020-05-06 07:38:15,067 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 07:38:35,732 [main] INFO cosac - Product Saved Successfully
+2020-05-06 07:38:35,779 [main] INFO cosac - SKU is Verified Successfully
+2020-05-06 07:39:31,635 [main] INFO cosac - Product hirarchy is Saved Successfully 
+2020-05-06 07:39:41,911 [main] INFO cosac - Cost Price Saved Successfully
+2020-05-06 07:40:01,403 [main] INFO cosac - Retail Price Added Successfully
+2020-05-06 07:40:01,403 [main] INFO cosac - Product Details Saved Successfully
+2020-05-06 07:40:01,403 [main] INFO cosac - **EOD JOB IS REQUIRED TO UPDATE STATUS**
+2020-05-06 07:40:01,510 [main] INFO cosac - User clicked on Merchandising
+2020-05-06 07:40:01,663 [main] INFO cosac - User clicked on Search
+2020-05-06 07:40:01,795 [main] INFO cosac - User clicked on Product Enquiry
+2020-05-06 07:40:02,875 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 07:40:06,944 [main] INFO cosac - User Verified Product Status Successfully
+2020-05-06 08:23:45,571 [main] INFO cosac - User is clicked on Merchandising
+2020-05-06 08:23:45,748 [main] INFO cosac - User is clicked on Create
+2020-05-06 08:23:46,716 [main] INFO cosac - User clicked on Regularstock
+2020-05-06 08:23:48,357 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-06 08:24:00,938 [main] INFO cosac - !!!Duplicate Product!!!
+2020-05-06 08:26:03,680 [main] INFO cosac - Test Failed
+2020-05-06 08:26:48,693 [main] INFO cosac - User is in Stock Allocation Creation Page
+2020-05-06 08:26:55,363 [main] INFO cosac - User Selected MNT00083
+2020-05-06 08:26:55,399 [main] INFO cosac - Product Name WF3410 YE - FLORAL ONCIDIUM ORCHID 26IN H is displayed in the description
+2020-05-06 08:26:55,425 [main] INFO cosac - Quantity Available 0 is displayed
+2020-05-06 08:26:55,533 [main] INFO cosac - The line cost is 1208600
+2020-05-06 08:26:55,575 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-06 08:26:56,079 [main] INFO cosac - Success Message is ×
+Stock allocation saved.
+2020-05-06 08:26:56,080 [main] INFO cosac - User Created Stock Allocation Successfully
+2020-05-06 08:26:56,159 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:26:56,304 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:26:56,414 [main] INFO cosac - User Clicked on StockAllocations
+2020-05-06 08:26:56,786 [main] INFO cosac - User clicked on Search Button
+2020-05-06 08:26:58,614 [main] INFO cosac - Shipment ID is #3644101
+2020-05-06 08:26:58,615 [main] INFO cosac - Stock Allocation Creation and Search is Successfull
+2020-05-06 08:28:16,892 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:28:17,043 [main] INFO cosac - User Clicked on Create
+2020-05-06 08:28:17,974 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-06 08:28:18,246 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-06 08:28:19,012 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-06 08:28:21,061 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:30:21,239 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:31:32,761 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:31:32,927 [main] INFO cosac - User Clicked on Create
+2020-05-06 08:31:33,961 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-06 08:31:34,429 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-06 08:31:34,947 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-06 08:31:37,004 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:32:21,701 [main] INFO cosac - Test Failed
+2020-05-06 08:32:23,482 [main] INFO cosac - Test Failed
+2020-05-06 08:33:37,217 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:33:41,287 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-05-06 08:33:41,606 [main] INFO cosac - SKU number is SST773
+2020-05-06 08:33:41,639 [main] INFO cosac - Description of Product is 456510168 - RED HYACINTH 95CM 456510168
+2020-05-06 08:33:41,673 [main] INFO cosac - Comments is Testing
+2020-05-06 08:33:41,702 [main] INFO cosac - The line cost is 233500
+2020-05-06 08:33:41,749 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-06 08:33:42,143 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-05-06 08:33:42,143 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-05-06 08:33:42,230 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:33:42,381 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:33:42,502 [main] INFO cosac - User Clicked on StockRequisitions
+2020-05-06 08:33:43,698 [main] INFO cosac - Shipment ID is #3644146
+2020-05-06 08:33:43,698 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-05-06 08:42:46,223 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:42:46,410 [main] INFO cosac - User Clicked on Create
+2020-05-06 08:42:47,370 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-06 08:42:47,624 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-06 08:42:48,002 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-06 08:42:50,054 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:45:04,871 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:45:05,058 [main] INFO cosac - User Clicked on Create
+2020-05-06 08:45:06,047 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-06 08:45:06,478 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-06 08:45:06,974 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-06 08:45:09,032 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:45:09,274 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:45:13,244 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-05-06 08:45:13,592 [main] INFO cosac - SKU number is SST773
+2020-05-06 08:45:13,644 [main] INFO cosac - Description of Product is 456510168 - RED HYACINTH 95CM 456510168
+2020-05-06 08:45:13,676 [main] INFO cosac - Comments is Testing
+2020-05-06 08:45:13,708 [main] INFO cosac - The line cost is 233500
+2020-05-06 08:45:13,738 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-06 08:45:14,034 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-05-06 08:45:14,035 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-05-06 08:45:14,110 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:45:14,258 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:45:14,365 [main] INFO cosac - User Clicked on StockRequisitions
+2020-05-06 08:45:15,195 [main] INFO cosac - Shipment ID is #3644146
+2020-05-06 08:45:15,195 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-05-06 08:46:21,309 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:46:21,462 [main] INFO cosac - User Clicked on Create
+2020-05-06 08:46:22,377 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-06 08:46:22,726 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-06 08:46:23,133 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-06 08:46:25,186 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:46:25,478 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-06 08:46:29,341 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-05-06 08:46:29,694 [main] INFO cosac - SKU number is SST773
+2020-05-06 08:46:29,737 [main] INFO cosac - Description of Product is 456510168 - RED HYACINTH 95CM 456510168
+2020-05-06 08:46:29,768 [main] INFO cosac - Comments is Testing
+2020-05-06 08:46:29,796 [main] INFO cosac - The line cost is 233500
+2020-05-06 08:46:29,823 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-06 08:46:30,077 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-05-06 08:46:30,077 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-05-06 08:46:30,152 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:46:30,304 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:46:30,407 [main] INFO cosac - User Clicked on StockRequisitions
+2020-05-06 08:46:31,188 [main] INFO cosac - Shipment ID is #3644146
+2020-05-06 08:46:31,189 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-05-06 08:49:36,765 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:49:36,921 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:49:38,355 [main] INFO cosac - User Clicked on Goods Receipts
+2020-05-06 08:49:38,426 [main] INFO cosac - User is in Goods Receipts Search Page
+2020-05-06 08:51:42,361 [main] INFO cosac - Test Failed
+2020-05-06 08:51:59,981 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:52:00,152 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:52:01,708 [main] INFO cosac - User Clicked on Goods Receipts
+2020-05-06 08:52:01,777 [main] INFO cosac - User is in Goods Receipts Search Page
+2020-05-06 08:52:07,228 [main] INFO cosac - User is in Goods Link Page
+2020-05-06 08:52:12,529 [main] INFO cosac - Test Failed
+2020-05-06 08:53:18,012 [main] INFO cosac - User Clicked on Merchandising
+2020-05-06 08:53:18,161 [main] INFO cosac - User Clicked on Search
+2020-05-06 08:53:19,444 [main] INFO cosac - User Clicked on Goods Receipts
+2020-05-06 08:53:19,514 [main] INFO cosac - User is in Goods Receipts Search Page
+2020-05-06 08:53:24,723 [main] INFO cosac - User is in Goods Link Page
+2020-05-06 08:53:30,701 [main] INFO cosac - Success Message is ×
+Vendor return created
+2020-05-06 08:53:34,778 [main] INFO cosac - Success Message is ×
+Return to vendor approved successfully
+×
+Vendor return created
+2020-05-06 08:53:34,802 [main] INFO cosac - The page title is Vendor Return #2173
+2020-05-06 08:53:34,802 [main] INFO cosac - The Random Number generated is #2173
+2020-05-06 08:53:37,345 [main] INFO cosac - User clicked on Search Button
+2020-05-06 08:53:39,373 [main] INFO cosac - The Search ID of the product returned is-->#2173
+2020-05-06 08:53:39,398 [main] INFO cosac - The Status of the Vendor return Product is--> Approved
+2020-05-06 08:53:39,424 [main] INFO cosac - The Created Date of the Vendor return Product is--> 06 May 2020
+2020-05-06 08:53:39,453 [main] INFO cosac - The Vendor of the Vendor return Product is--> REGAL WORLDWIDE TRADE
+2020-05-06 08:53:39,482 [main] INFO cosac - The Sending Location of the Vendor return Product is--> Jamaica Livestock As
+2020-05-06 08:53:39,519 [main] INFO cosac - The Receipt Type of the Vendor return Product is--> Standard
+2020-05-06 08:53:39,562 [main] INFO cosac - The Goods Receipt ID of the Vendor return Product is--> #2586
+2020-05-06 08:53:39,600 [main] INFO cosac - The Total Cost of the Vendor return Product is--> $ 268,426.89
+2020-05-06 08:58:35,273 [main] INFO cosac - User clicked on merchandising
+2020-05-06 08:58:36,853 [main] INFO cosac - User clicked on product enquiry
+2020-05-06 08:58:37,984 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-06 08:58:38,628 [main] INFO cosac - User entered the product code
+2020-05-06 08:58:40,732 [main] INFO cosac - User selected required product for next process
+2020-05-06 08:58:48,847 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-05-06 08:58:49,035 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-05-06 09:01:36,246 [main] INFO cosac - User clicked on merchandising
+2020-05-06 09:01:38,120 [main] INFO cosac - User clicked on product enquiry
+2020-05-06 09:01:39,262 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-06 09:01:40,177 [main] INFO cosac - User entered the product code
+2020-05-06 09:01:42,274 [main] INFO cosac - User selected required product for next process
+2020-05-06 09:01:49,811 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-05-06 09:01:49,911 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-05-06 09:01:50,105 [main] INFO cosac - User noted the stockcount of the product
+2020-05-06 09:01:50,179 [main] INFO cosac - clicked on merchandising
+2020-05-06 09:01:50,710 [main] INFO cosac - clicked on direct receipt
+2020-05-06 09:01:54,740 [main] INFO cosac - USer successfully logged into Direct Receipt page
+2020-05-06 09:01:58,373 [main] INFO cosac - User successfully selected the receiving location
+2020-05-06 09:02:01,743 [main] INFO cosac - User successfully selected the vendor
+2020-05-06 09:02:01,933 [main] INFO cosac - User successfully selected the receiving person
+2020-05-06 09:02:02,093 [main] INFO cosac - User successfully entered the vendor referance number
+2020-05-06 09:02:02,230 [main] INFO cosac - User successfully entered the vendor invoice number
+2020-05-06 09:02:05,579 [main] INFO cosac - User successfully selected the referance option
+2020-05-06 09:02:05,705 [main] INFO cosac - User successfully entered contacts details
+2020-05-06 09:02:06,195 [main] INFO cosac - User successfully updated comment details
+2020-05-06 09:02:11,601 [main] INFO cosac - User successfully entered product code and selected
+2020-05-06 09:02:11,697 [main] INFO cosac - User successfully entered product code and selected
+2020-05-06 09:02:11,906 [main] INFO cosac - User successfully updated comment details of product
+2020-05-06 09:02:11,970 [main] INFO cosac - product added successfully
+2020-05-06 09:02:12,047 [main] INFO cosac - User successfully clicked on create receipt button
+2020-05-06 09:02:12,048 [main] INFO cosac - User successfully logged into directreceipt page for approval
+2020-05-06 09:02:22,132 [main] INFO cosac - User successfully clicked on approved button
+2020-05-06 09:02:22,257 [main] INFO cosac - User successfully clicked on print cost button for printing
+2020-05-06 09:02:26,334 [main] INFO cosac - Clicked on ok button for confirmation
+2020-05-06 09:02:30,350 [main] INFO cosac - User is now successfully switched back to main page from print page
+2020-05-06 09:02:31,384 [main] INFO cosac - User is in Product Enquiry page
+2020-05-06 09:02:41,050 [main] INFO cosac - USer is in sapre part maintenance page
+2020-05-06 09:02:41,165 [main] INFO cosac - User successfully noted the stock value after DRN generated
+2020-05-06 09:10:21,131 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:10:26,477 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-06 09:10:26,745 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:10:26,919 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:10:27,185 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-06 09:10:27,346 [main] INFO cosac - User Selected DateFrom
+2020-05-06 09:10:27,885 [main] INFO cosac - User Selected Sales Type
+2020-05-06 09:11:13,519 [main] INFO cosac - Account nO is--->940418169930
+2020-05-06 09:11:39,497 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:11:44,636 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:11:49,764 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-06 09:11:54,797 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:11:54,898 [main] INFO cosac - User Selected facia
+2020-05-06 09:11:55,023 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:11:55,408 [main] INFO cosac - User Selected Date From
+2020-05-06 09:11:55,859 [main] INFO cosac - User Selected Date To
+2020-05-06 09:12:15,991 [main] INFO cosac - No of Quantity is--->1
+2020-05-06 09:12:21,893 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:12:22,036 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:12:22,120 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:12:27,147 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:12:27,596 [main] INFO cosac - User Selected Date To
+2020-05-06 09:12:28,314 [main] INFO cosac - User Selected Date To
+2020-05-06 09:12:28,314 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:12:28,667 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:12:48,781 [main] INFO cosac - Account nO is--->1060A5
+2020-05-06 09:12:56,588 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:12:56,743 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:12:56,827 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:13:01,855 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:13:02,325 [main] INFO cosac - User Selected Date To
+2020-05-06 09:13:02,517 [main] INFO cosac - User Selected Date To
+2020-05-06 09:13:02,518 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:13:04,266 [main] INFO cosac - Test Failed
+2020-05-06 09:13:06,011 [main] INFO cosac - Test Failed
+2020-05-06 09:13:07,746 [main] INFO cosac - Test Failed
+2020-05-06 09:15:53,075 [main] INFO cosac - Test Failed
+2020-05-06 09:15:59,217 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:16:00,247 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-06 09:16:00,431 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:16:00,634 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:16:00,947 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-06 09:16:01,090 [main] INFO cosac - User Selected DateFrom
+2020-05-06 09:16:01,785 [main] INFO cosac - User Selected Sales Type
+2020-05-06 09:16:38,027 [main] INFO cosac - Account nO is--->660087138321
+2020-05-06 09:17:04,179 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:17:09,338 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:17:14,456 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-06 09:17:19,506 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:17:19,627 [main] INFO cosac - User Selected facia
+2020-05-06 09:17:19,758 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:17:20,085 [main] INFO cosac - User Selected Date From
+2020-05-06 09:17:20,405 [main] INFO cosac - User Selected Date To
+2020-05-06 09:17:40,549 [main] INFO cosac - No of Quantity is--->1
+2020-05-06 09:17:46,491 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:17:46,636 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:17:46,712 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:17:51,739 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:17:52,173 [main] INFO cosac - User Selected Date To
+2020-05-06 09:17:52,475 [main] INFO cosac - User Selected Date To
+2020-05-06 09:17:52,475 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:17:52,804 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:18:12,900 [main] INFO cosac - Account nO is--->10809A
+2020-05-06 09:18:20,466 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:18:20,615 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:18:20,694 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:18:25,720 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:18:26,317 [main] INFO cosac - User Selected Date To
+2020-05-06 09:18:26,572 [main] INFO cosac - User Selected Date To
+2020-05-06 09:18:26,572 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:18:28,487 [main] INFO cosac - Test Failed
+2020-05-06 09:18:30,232 [main] INFO cosac - Test Failed
+2020-05-06 09:18:32,055 [main] INFO cosac - Test Failed
+2020-05-06 09:24:06,142 [main] INFO cosac - Test Failed
+2020-05-06 09:31:48,704 [main] INFO cosac - User clicked on merchandising
+2020-05-06 09:31:50,355 [main] INFO cosac - User clicked on product enquiry
+2020-05-06 09:31:51,432 [main] INFO cosac - User successfully logged in to Product Enquiry page
+2020-05-06 09:31:57,864 [main] INFO cosac - User selected Regular Stock Product
+2020-05-06 09:32:06,074 [main] INFO cosac - Regular Stock Maintenance  <--Product code to be repossessed
+2020-05-06 09:32:06,074 [main] INFO cosac - User successfully logged into regular stock maintenance page
+2020-05-06 09:32:06,320 [main] INFO cosac - User successfully noted all the product hierarchy specified
+2020-05-06 09:32:06,321 [main] INFO cosac - User successfully converted the product to Repossessed product
+2020-05-06 09:32:15,800 [main] INFO cosac - User created Repossessed Product by 4 Porduct codes
+2020-05-06 09:32:15,886 [main] INFO cosac - Clicked on Excellent product code
+2020-05-06 09:32:19,996 [main] INFO cosac - R15031E <-- Excellent product code
+2020-05-06 09:32:20,025 [main] INFO cosac - Non Active <--  E - status of product code
+2020-05-06 09:32:20,026 [main] INFO cosac - User noted the status of product-Excellent
+2020-05-06 09:32:20,091 [main] INFO cosac - Clicked on Fair Product code
+2020-05-06 09:32:22,863 [main] INFO cosac - R15031F <-- Fair product code
+2020-05-06 09:32:22,888 [main] INFO cosac - Non Active <--  F - status of product code
+2020-05-06 09:32:22,889 [main] INFO cosac - User noted the status of product-Fair
+2020-05-06 09:32:23,194 [main] INFO cosac - User clicked on Poor Product Code
+2020-05-06 09:32:26,304 [main] INFO cosac - R15031P <-- Poor product code
+2020-05-06 09:32:26,330 [main] INFO cosac - Non Active <--  P - status of product code
+2020-05-06 09:32:26,330 [main] INFO cosac - User noted the status of product- Poor
+2020-05-06 09:32:26,402 [main] INFO cosac - Clicked on writeoff Product Code
+2020-05-06 09:32:29,149 [main] INFO cosac - R15031W <-- Write-off product code
+2020-05-06 09:32:29,183 [main] INFO cosac - Non Active <--  W - status of product code
+2020-05-06 09:32:29,183 [main] INFO cosac - User noted the status of product- Write-Off
+2020-05-06 09:32:29,184 [main] INFO cosac - NOTE - Product status will be active after EOD process is pass 
+2020-05-06 09:32:29,347 [main] INFO cosac - User is in Home page
+2020-05-06 09:38:53,506 [main] INFO cosac - User clicked on merchandising
+2020-05-06 09:38:55,069 [main] INFO cosac - User clicked on product enquiry
+2020-05-06 09:38:56,192 [main] INFO cosac - User successfully logged in to Product Enquiry page
+2020-05-06 09:39:02,558 [main] INFO cosac - User selected Regular Stock Product
+2020-05-06 09:39:12,898 [main] INFO cosac - Regular Stock Maintenance  <--Product code to be repossessed
+2020-05-06 09:39:12,899 [main] INFO cosac - User successfully logged into regular stock maintenance page
+2020-05-06 09:39:13,108 [main] INFO cosac - User successfully noted all the product hierarchy specified
+2020-05-06 09:39:13,109 [main] INFO cosac - User successfully converted the product to Repossessed product
+2020-05-06 09:39:13,387 [main] INFO cosac - User created Repossessed Product by 4 Porduct codes
+2020-05-06 09:40:39,657 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:40:40,749 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-06 09:40:40,968 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:40:41,116 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:40:41,465 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-06 09:40:41,553 [main] INFO cosac - User Selected DateFrom
+2020-05-06 09:40:42,216 [main] INFO cosac - User Selected Sales Type
+2020-05-06 09:41:19,512 [main] INFO cosac - Account nO is--->607011672561
+2020-05-06 09:41:45,440 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:41:50,579 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:41:55,675 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-06 09:42:00,708 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:42:00,808 [main] INFO cosac - User Selected facia
+2020-05-06 09:42:00,911 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:42:01,278 [main] INFO cosac - User Selected Date From
+2020-05-06 09:42:01,594 [main] INFO cosac - User Selected Date To
+2020-05-06 09:42:21,727 [main] INFO cosac - No of Quantity is--->1
+2020-05-06 09:42:27,605 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:42:27,758 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:42:27,843 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:42:32,870 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:42:33,380 [main] INFO cosac - User Selected Date To
+2020-05-06 09:42:33,642 [main] INFO cosac - User Selected Date To
+2020-05-06 09:42:33,643 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:42:34,006 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:42:54,110 [main] INFO cosac - Account nO is--->1060A5
+2020-05-06 09:43:01,955 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:43:02,099 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:43:02,188 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:43:07,218 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:43:07,739 [main] INFO cosac - User Selected Date To
+2020-05-06 09:43:07,977 [main] INFO cosac - User Selected Date To
+2020-05-06 09:43:07,977 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:43:14,842 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:43:16,683 [main] INFO cosac - Test Failed
+2020-05-06 09:43:18,422 [main] INFO cosac - Test Failed
+2020-05-06 09:43:20,154 [main] INFO cosac - Test Failed
+2020-05-06 09:45:26,250 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:45:27,379 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-06 09:45:27,590 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:45:27,743 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:45:27,993 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-06 09:45:28,103 [main] INFO cosac - User Selected DateFrom
+2020-05-06 09:45:28,698 [main] INFO cosac - User Selected Sales Type
+2020-05-06 09:46:05,226 [main] INFO cosac - Account nO is--->607011672561
+2020-05-06 09:46:31,352 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:46:36,525 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:46:41,650 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-06 09:46:46,688 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:46:46,838 [main] INFO cosac - User Selected facia
+2020-05-06 09:46:46,980 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:46:47,462 [main] INFO cosac - User Selected Date From
+2020-05-06 09:46:48,023 [main] INFO cosac - User Selected Date To
+2020-05-06 09:47:08,169 [main] INFO cosac - No of Quantity is--->1
+2020-05-06 09:47:14,122 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:47:14,271 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:47:14,353 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:47:19,383 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:47:19,858 [main] INFO cosac - User Selected Date To
+2020-05-06 09:47:20,151 [main] INFO cosac - User Selected Date To
+2020-05-06 09:47:20,152 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:47:20,503 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:47:40,631 [main] INFO cosac - Account nO is--->CCT065
+2020-05-06 09:47:48,350 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:47:48,502 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:47:48,598 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:47:53,628 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:47:54,173 [main] INFO cosac - User Selected Date To
+2020-05-06 09:47:54,392 [main] INFO cosac - User Selected Date To
+2020-05-06 09:47:54,393 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:48:03,751 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:51:32,423 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:51:34,084 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-06 09:51:34,243 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:51:34,381 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:51:34,785 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-06 09:51:34,885 [main] INFO cosac - User Selected DateFrom
+2020-05-06 09:51:35,582 [main] INFO cosac - User Selected Sales Type
+2020-05-06 09:52:12,746 [main] INFO cosac - Account nO is--->940418169930
+2020-05-06 09:52:38,775 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:52:43,914 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:52:49,011 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-06 09:52:54,043 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:52:54,149 [main] INFO cosac - User Selected facia
+2020-05-06 09:52:54,283 [main] INFO cosac - User Clcked on the Date To
+2020-05-06 09:52:54,621 [main] INFO cosac - User Selected Date From
+2020-05-06 09:52:54,971 [main] INFO cosac - User Selected Date To
+2020-05-06 09:53:15,088 [main] INFO cosac - No of Quantity is--->1
+2020-05-06 09:53:21,057 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:53:21,209 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:53:21,293 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:53:26,320 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:53:26,852 [main] INFO cosac - User Selected Date To
+2020-05-06 09:53:27,165 [main] INFO cosac - User Selected Date To
+2020-05-06 09:53:27,165 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:53:27,569 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:53:47,701 [main] INFO cosac - Account nO is--->1060A5
+2020-05-06 09:53:55,411 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:53:55,563 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:53:55,671 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-06 09:54:00,700 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:54:01,299 [main] INFO cosac - User Selected Date To
+2020-05-06 09:54:01,543 [main] INFO cosac - User Selected Date To
+2020-05-06 09:54:01,544 [main] INFO cosac - User Clcked on the Date From
+2020-05-06 09:54:11,167 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:54:31,315 [main] INFO cosac - Account nO is--->0
+2020-05-06 09:54:38,755 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:54:38,910 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:54:38,989 [main] INFO cosac - User clicked on  SecondeffortSolitationreports
+2020-05-06 09:54:44,016 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:54:46,319 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:55:16,407 [main] INFO cosac - Account nO is--->39607.67
+2020-05-06 09:55:21,685 [main] INFO cosac - User clicked on warranty
+2020-05-06 09:55:21,841 [main] INFO cosac - User mouse hovered on Reports
+2020-05-06 09:55:21,906 [main] INFO cosac - User clicked on  BrokerWarrantyTransactions
+2020-05-06 09:55:26,933 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-06 09:55:27,016 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-06 09:55:57,247 [main] INFO cosac - Account nO is--->940
+2020-05-11 01:39:58,176 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-11 01:39:58,201 [main] INFO cosac - User is in Create Location Page
+2020-05-11 01:40:02,602 [main] INFO cosac - User Filled the Location Creation form successfully
+2020-05-11 01:40:05,722 [main] INFO cosac - Location Creation Message-->Location saved successfully
+2020-05-11 01:40:05,820 [main] INFO cosac - User validated Locationvalue successfully-->131014
+2020-05-11 01:40:05,820 [main] INFO cosac - User is able to Create Location successfully
+2020-05-11 01:40:08,185 [main] INFO cosac - User is in Location Search Page
+2020-05-11 01:40:14,545 [main] INFO cosac - User Validated LocationName successfully-->PORTLAND
+2020-05-11 01:40:14,577 [main] INFO cosac - User  Validated Sales SystemId successfully-->308
+2020-05-11 01:40:14,607 [main] INFO cosac - User  Validated warehouse Status successfully-->Yes
+2020-05-11 01:40:14,640 [main] INFO cosac - User  Validated Active Status successfully-->Yes
+2020-05-11 01:40:14,669 [main] INFO cosac - User  Validated Virtual Status successfully-->Yes
+2020-05-11 01:40:14,669 [main] INFO cosac - User successfully Validated Location Search 
+2020-05-11 01:40:20,930 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 01:40:20,943 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-11 01:40:22,610 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-11 01:40:29,725 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-05-11 01:40:31,870 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-05-11 01:40:40,312 [main] INFO cosac - Toast TagMessage is --->Vendor tag saved successfully
+2020-05-11 01:40:40,386 [main] INFO cosac - User successfully validated vendorName
+2020-05-11 01:40:40,387 [main] INFO cosac - User is able to Create Local vendor
+2020-05-11 01:40:45,736 [main] INFO cosac - User is in Vendor searchPage 
+2020-05-11 01:40:49,086 [main] INFO cosac - VendorCode-->201597
+2020-05-11 01:40:49,113 [main] INFO cosac - VendorName-->SOLAPUR ONION TRADER
+2020-05-11 01:40:49,154 [main] INFO cosac - Vendortype-->Local
+2020-05-11 01:40:49,184 [main] INFO cosac - VendorStatus-->Active
+2020-05-11 01:40:49,224 [main] INFO cosac - User successfully Validated Local_Vendor Search
+2020-05-11 01:40:55,938 [main] INFO cosac - Test Failed
+2020-05-11 01:41:11,542 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-11 01:41:27,604 [main] INFO cosac - ProductCode -->FC986
+2020-05-11 01:41:27,740 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-11 01:41:41,796 [main] INFO cosac - onhand quantity in recieving location are-->0
+2020-05-11 01:41:41,833 [main] INFO cosac - available quantity in recieving location are-->-1
+2020-05-11 01:41:41,879 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-05-11 01:41:41,948 [main] INFO cosac - User switched to parent window
+2020-05-11 01:41:41,989 [main] INFO cosac - Purchage order No -->21940
+2020-05-11 01:41:42,023 [main] INFO cosac -  Quantity pending -->10
+2020-05-11 01:41:49,171 [main] INFO cosac - Back order Quantity-->9
+2020-05-11 01:41:51,123 [main] INFO cosac - Test Failed
+2020-05-11 01:41:57,759 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:42:00,428 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-11 01:42:00,677 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-11 01:42:01,090 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-11 01:44:09,084 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-05-11 01:44:09,770 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-05-11 01:44:40,274 [main] INFO cosac - Sku No in results found is-->AAO012
+2020-05-11 01:44:40,319 [main] INFO cosac - No of quantities available in results are -->3
+2020-05-11 01:44:40,362 [main] INFO cosac - NetsaleValue in results is -->$ 0.00
+2020-05-11 01:44:40,560 [main] INFO cosac - User Clicked on Print Button successfully
+2020-05-11 01:44:41,902 [main] INFO cosac - Sku No in printpage is-->AAO012
+2020-05-11 01:44:41,939 [main] INFO cosac - No of quantities available in printpage are -->3
+2020-05-11 01:44:41,990 [main] INFO cosac - NetsaleValue in printpage is -->$ 0.00
+2020-05-11 01:44:41,990 [main] INFO cosac - User navigated to print page and validated mandatory data
+2020-05-11 01:44:48,428 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 01:44:48,436 [main] INFO cosac - User has verified Page Title successfully
+2020-05-11 01:44:48,511 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:44:49,453 [main] INFO cosac - User Clicked on Product Hierarchy
+2020-05-11 01:44:49,519 [main] INFO cosac - User validated Product Hierarchy Label successfully
+2020-05-11 01:44:55,596 [main] INFO cosac - User clicked on Division save button
+2020-05-11 01:44:55,670 [main] INFO cosac - User  Created Division successfully and Message is-->Tag JEWELLARY created under Level Division
+2020-05-11 01:45:02,024 [main] INFO cosac - User  Created Department successfully and Message is -->Tag GOLD created under Level Department
+2020-05-11 01:45:07,515 [main] INFO cosac - User  Created Clas successfully and Message is-->Tag KGF GOLD created under Level Class
+2020-05-11 01:45:07,515 [main] INFO cosac - User  Created Division,Department,Class successfully 
+2020-05-11 01:45:13,504 [main] INFO cosac - User clicked on merchandising
+2020-05-11 01:45:15,431 [main] INFO cosac - User clicked on product enquiry
+2020-05-11 01:45:16,786 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-11 01:45:17,081 [main] INFO cosac - User entered the product code
+2020-05-11 01:45:19,166 [main] INFO cosac - User selected required product for next process
+2020-05-11 01:45:26,458 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-05-11 01:45:26,552 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-05-11 01:45:26,742 [main] INFO cosac - User noted the stockcount of the product
+2020-05-11 01:45:26,841 [main] INFO cosac - clicked on merchandising
+2020-05-11 01:45:27,067 [main] INFO cosac - clicked on direct receipt
+2020-05-11 01:45:31,095 [main] INFO cosac - USer successfully logged into Direct Receipt page
+2020-05-11 01:45:34,570 [main] INFO cosac - User successfully selected the receiving location
+2020-05-11 01:45:37,925 [main] INFO cosac - User successfully selected the vendor
+2020-05-11 01:45:38,095 [main] INFO cosac - User successfully selected the receiving person
+2020-05-11 01:45:38,227 [main] INFO cosac - User successfully entered the vendor referance number
+2020-05-11 01:45:38,350 [main] INFO cosac - User successfully entered the vendor invoice number
+2020-05-11 01:45:41,724 [main] INFO cosac - User successfully selected the referance option
+2020-05-11 01:45:41,865 [main] INFO cosac - User successfully entered contacts details
+2020-05-11 01:45:42,174 [main] INFO cosac - User successfully updated comment details
+2020-05-11 01:45:47,739 [main] INFO cosac - User successfully entered product code and selected
+2020-05-11 01:45:47,838 [main] INFO cosac - User successfully entered product code and selected
+2020-05-11 01:45:48,088 [main] INFO cosac - User successfully updated comment details of product
+2020-05-11 01:45:48,157 [main] INFO cosac - product added successfully
+2020-05-11 01:45:48,239 [main] INFO cosac - User successfully clicked on create receipt button
+2020-05-11 01:45:48,239 [main] INFO cosac - User successfully logged into directreceipt page for approval
+2020-05-11 01:46:01,554 [main] INFO cosac - User successfully clicked on approved button
+2020-05-11 01:46:01,679 [main] INFO cosac - User successfully clicked on print cost button for printing
+2020-05-11 01:46:05,800 [main] INFO cosac - Clicked on ok button for confirmation
+2020-05-11 01:46:09,816 [main] INFO cosac - User is now successfully switched back to main page from print page
+2020-05-11 01:46:12,188 [main] INFO cosac - User is in Product Enquiry page
+2020-05-11 01:46:22,751 [main] INFO cosac - USer is in sapre part maintenance page
+2020-05-11 01:46:22,825 [main] INFO cosac - User successfully noted the stock value after DRN generated
+2020-05-11 01:46:28,983 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:46:31,187 [main] INFO cosac - User Clicked on Spare Part
+2020-05-11 01:46:33,537 [main] INFO cosac - User are in Create Spare Part Page
+2020-05-11 01:46:34,028 [main] INFO cosac - User Entered Description
+2020-05-11 01:46:35,372 [main] INFO cosac - User Entered Long Description
+2020-05-11 01:46:35,638 [main] INFO cosac - User Entered PartNumber
+2020-05-11 01:46:36,253 [main] INFO cosac - User Entered Long Vendor Model Number
+2020-05-11 01:46:40,248 [main] INFO cosac - User Selected Primary Vendor
+2020-05-11 01:46:40,396 [main] INFO cosac - User is able to save Spare Party
+2020-05-11 01:46:59,291 [main] INFO cosac - User is able to search Product with product status: Active Current
+2020-05-11 01:47:11,901 [main] INFO cosac - Product Creation Starts
+2020-05-11 01:49:47,483 [main] INFO cosac - Test Failed
+2020-05-11 01:49:47,485 [main] INFO cosac - Product Validation Starts
+2020-05-11 01:50:01,704 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-05-11 01:50:05,060 [main] INFO cosac - User is able to Select KPI
+2020-05-11 01:50:08,471 [main] INFO cosac - User is able to Select Location
+2020-05-11 01:50:11,794 [main] INFO cosac - User is able to Select Division
+2020-05-11 01:50:11,875 [main] INFO cosac - User is able to Click to Serch Report
+2020-05-11 01:50:50,957 [main] INFO cosac - User use able to se the Report with result Count: 48 results found.
+2020-05-11 01:51:01,055 [main] INFO cosac - Hide show button verified
+2020-05-11 01:51:04,128 [main] INFO cosac - User is able to click to Print Button, Print Verified
+2020-05-11 01:51:46,712 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 01:51:46,855 [main] INFO cosac - User is clicked on Create
+2020-05-11 01:51:48,938 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 01:51:50,591 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 01:52:10,910 [main] INFO cosac - Product Saved Successfully
+2020-05-11 01:52:10,949 [main] INFO cosac - SKU is Verified Successfully
+2020-05-11 01:52:12,847 [main] INFO cosac - Test Failed
+2020-05-11 01:52:19,004 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 01:52:19,144 [main] INFO cosac - User able to click on Create
+2020-05-11 01:52:20,132 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 01:52:22,527 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 01:54:48,151 [main] INFO cosac - Test Failed
+2020-05-11 01:54:55,751 [main] INFO cosac - User is in Stock Allocation Creation Page
+2020-05-11 01:55:03,103 [main] INFO cosac - User Selected MNT00083
+2020-05-11 01:55:03,145 [main] INFO cosac - Product Name WF3410 YE - FLORAL ONCIDIUM ORCHID 26IN H is displayed in the description
+2020-05-11 01:55:03,186 [main] INFO cosac - Quantity Available 0 is displayed
+2020-05-11 01:55:03,313 [main] INFO cosac - The line cost is 1208600
+2020-05-11 01:55:03,349 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-11 01:55:03,881 [main] INFO cosac - Success Message is ×
+Stock allocation saved.
+2020-05-11 01:55:03,881 [main] INFO cosac - User Created Stock Allocation Successfully
+2020-05-11 01:55:03,973 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:55:04,125 [main] INFO cosac - User Clicked on Search
+2020-05-11 01:55:04,230 [main] INFO cosac - User Clicked on StockAllocations
+2020-05-11 01:55:04,559 [main] INFO cosac - User clicked on Search Button
+2020-05-11 01:55:06,287 [main] INFO cosac - Shipment ID is #3644101
+2020-05-11 01:55:06,287 [main] INFO cosac - Stock Allocation Creation and Search is Successfull
+2020-05-11 01:55:12,836 [main] INFO cosac - User Clicked to merchandising
+2020-05-11 01:55:17,661 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-11 01:55:18,769 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-11 01:55:19,174 [main] INFO cosac - User Selected Product Status
+2020-05-11 01:55:22,264 [main] INFO cosac - User Selected Product Type
+2020-05-11 01:55:23,037 [main] INFO cosac - User Clicked to Product
+2020-05-11 01:55:39,798 [main] INFO cosac - User able to comlete Export setting field
+2020-05-11 01:55:47,834 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-11 01:55:49,794 [main] INFO cosac - Test Failed
+2020-05-11 01:55:56,405 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:55:56,561 [main] INFO cosac - User Clicked on Create
+2020-05-11 01:55:57,613 [main] INFO cosac - User Clicked on StockRequisition
+2020-05-11 01:55:57,894 [main] INFO cosac - User is in Stock Requisition Creation Page
+2020-05-11 01:55:58,315 [main] INFO cosac - Text-->LUCKY DOLLAR MAY PEN
+2020-05-11 01:56:00,410 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-11 01:56:00,672 [main] INFO cosac - User clicked LUCKY DOLLAR MAY PEN
+2020-05-11 01:56:04,655 [main] INFO cosac - User clicked  SST773:456510168-RED HYACINTH 95CM 456510168
+2020-05-11 01:56:05,026 [main] INFO cosac - SKU number is SST773
+2020-05-11 01:56:05,058 [main] INFO cosac - Description of Product is 456510168 - RED HYACINTH 95CM 456510168
+2020-05-11 01:56:05,103 [main] INFO cosac - Comments is Testing
+2020-05-11 01:56:05,134 [main] INFO cosac - The line cost is 233500
+2020-05-11 01:56:05,170 [main] INFO cosac - Line cost is displayed as per Quantity
+2020-05-11 01:56:05,836 [main] INFO cosac - Success Message is ×
+Stock requisition saved.
+2020-05-11 01:56:05,836 [main] INFO cosac - User Created Stock Requisition Successfully
+2020-05-11 01:56:05,901 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:56:06,240 [main] INFO cosac - User Clicked on Search
+2020-05-11 01:56:06,345 [main] INFO cosac - User Clicked on StockRequisitions
+2020-05-11 01:56:08,164 [main] INFO cosac - Shipment ID is #3644146
+2020-05-11 01:56:08,164 [main] INFO cosac - Create and Search Stock Requisitions is Successfull
+2020-05-11 01:56:14,481 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 01:56:14,632 [main] INFO cosac - User Clicked on Search
+2020-05-11 01:56:17,014 [main] INFO cosac - User Clicked on Goods Receipts
+2020-05-11 01:56:17,085 [main] INFO cosac - User is in Goods Receipts Search Page
+2020-05-11 01:56:22,641 [main] INFO cosac - User is in Goods Link Page
+2020-05-11 01:56:28,462 [main] INFO cosac - Success Message is ×
+Vendor return created
+2020-05-11 01:56:32,543 [main] INFO cosac - Success Message is ×
+Return to vendor approved successfully
+×
+Vendor return created
+2020-05-11 01:56:32,565 [main] INFO cosac - The page title is Vendor Return #2175
+2020-05-11 01:56:32,565 [main] INFO cosac - The Random Number generated is #2175
+2020-05-11 01:56:35,121 [main] INFO cosac - User clicked on Search Button
+2020-05-11 01:56:37,151 [main] INFO cosac - The Search ID of the product returned is-->#2175
+2020-05-11 01:56:37,191 [main] INFO cosac - The Status of the Vendor return Product is--> Approved
+2020-05-11 01:56:37,218 [main] INFO cosac - The Created Date of the Vendor return Product is--> 11 May 2020
+2020-05-11 01:56:37,248 [main] INFO cosac - The Vendor of the Vendor return Product is--> REGAL WORLDWIDE TRADE
+2020-05-11 01:56:37,289 [main] INFO cosac - The Sending Location of the Vendor return Product is--> Jamaica Livestock As
+2020-05-11 01:56:37,327 [main] INFO cosac - The Receipt Type of the Vendor return Product is--> Standard
+2020-05-11 01:56:37,367 [main] INFO cosac - The Goods Receipt ID of the Vendor return Product is--> #2586
+2020-05-11 01:56:37,409 [main] INFO cosac - The Total Cost of the Vendor return Product is--> $ 268,426.89
+2020-05-11 01:56:43,917 [main] INFO cosac - User clicked on merchandising
+2020-05-11 01:56:45,637 [main] INFO cosac - User clicked on product enquiry
+2020-05-11 01:56:47,076 [main] INFO cosac - User successfully logged in to Product Enquiry page
+2020-05-11 01:56:53,847 [main] INFO cosac - User selected Regular Stock Product
+2020-05-11 01:57:01,705 [main] INFO cosac - Regular Stock Maintenance  <--Product code to be repossessed
+2020-05-11 01:57:01,706 [main] INFO cosac - User successfully logged into regular stock maintenance page
+2020-05-11 01:57:02,257 [main] INFO cosac - User successfully noted all the product hierarchy specified
+2020-05-11 01:57:02,258 [main] INFO cosac - User successfully converted the product to Repossessed product
+2020-05-11 01:57:11,260 [main] INFO cosac - User created Repossessed Product by 4 Porduct codes
+2020-05-11 01:57:11,355 [main] INFO cosac - Clicked on Excellent product code
+2020-05-11 01:57:14,537 [main] INFO cosac - OP0401E <-- Excellent product code
+2020-05-11 01:57:14,567 [main] INFO cosac - Non Active <--  E - status of product code
+2020-05-11 01:57:14,568 [main] INFO cosac - User noted the status of product-Excellent
+2020-05-11 01:57:14,638 [main] INFO cosac - Clicked on Fair Product code
+2020-05-11 01:57:17,892 [main] INFO cosac - OP0401F <-- Fair product code
+2020-05-11 01:57:17,925 [main] INFO cosac - Non Active <--  F - status of product code
+2020-05-11 01:57:17,926 [main] INFO cosac - User noted the status of product-Fair
+2020-05-11 01:57:18,008 [main] INFO cosac - User clicked on Poor Product Code
+2020-05-11 01:57:21,726 [main] INFO cosac - OP0401P <-- Poor product code
+2020-05-11 01:57:21,752 [main] INFO cosac - Non Active <--  P - status of product code
+2020-05-11 01:57:21,752 [main] INFO cosac - User noted the status of product- Poor
+2020-05-11 01:57:21,828 [main] INFO cosac - Clicked on writeoff Product Code
+2020-05-11 01:57:24,696 [main] INFO cosac - OP0401W <-- Write-off product code
+2020-05-11 01:57:24,726 [main] INFO cosac - Non Active <--  W - status of product code
+2020-05-11 01:57:24,727 [main] INFO cosac - User noted the status of product- Write-Off
+2020-05-11 01:57:24,727 [main] INFO cosac - NOTE - Product status will be active after EOD process is pass 
+2020-05-11 01:57:24,894 [main] INFO cosac - User is in Home page
+2020-05-11 01:58:35,733 [main] INFO cosac - User clicked on warranty
+2020-05-11 01:58:37,729 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-11 01:58:37,896 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 01:58:38,068 [main] INFO cosac - User Clcked on the Date To
+2020-05-11 01:58:38,497 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-11 01:58:38,613 [main] INFO cosac - User Selected DateFrom
+2020-05-11 01:58:39,260 [main] INFO cosac - User Selected Sales Type
+2020-05-11 01:59:43,385 [main] INFO cosac - Account nO is--->940418169930
+2020-05-11 02:00:09,610 [main] INFO cosac - User clicked on warranty
+2020-05-11 02:00:14,748 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 02:00:19,893 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-11 02:00:24,935 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 02:00:25,057 [main] INFO cosac - User Selected facia
+2020-05-11 02:00:26,484 [main] INFO cosac - User Clcked on the Date To
+2020-05-11 02:00:26,894 [main] INFO cosac - User Selected Date From
+2020-05-11 02:00:27,331 [main] INFO cosac - User Selected Date To
+2020-05-11 02:00:47,471 [main] INFO cosac - No of Quantity is--->1
+2020-05-11 02:00:53,168 [main] INFO cosac - User clicked on warranty
+2020-05-11 02:00:53,318 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 02:00:53,415 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-11 02:00:58,442 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 02:00:58,908 [main] INFO cosac - User Selected Date To
+2020-05-11 02:00:59,128 [main] INFO cosac - User Selected Date To
+2020-05-11 02:00:59,128 [main] INFO cosac - User Clcked on the Date From
+2020-05-11 02:00:59,419 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 02:01:19,533 [main] INFO cosac - Account nO is--->1060A5
+2020-05-11 02:01:28,006 [main] INFO cosac - User clicked on warranty
+2020-05-11 02:01:28,171 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 02:01:28,382 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-11 02:01:33,411 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 02:01:33,964 [main] INFO cosac - User Selected Date To
+2020-05-11 02:01:34,183 [main] INFO cosac - User Selected Date To
+2020-05-11 02:01:34,184 [main] INFO cosac - User Clcked on the Date From
+2020-05-11 02:01:43,777 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 02:02:03,982 [main] INFO cosac - Account nO is--->0
+2020-05-11 02:02:11,340 [main] INFO cosac - User clicked on warranty
+2020-05-11 02:02:11,481 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 02:02:11,603 [main] INFO cosac - User clicked on  SecondeffortSolitationreports
+2020-05-11 02:02:16,644 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 02:02:19,027 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 02:04:49,792 [main] INFO cosac - Test Failed
+2020-05-11 02:04:49,871 [main] INFO cosac - User clicked on warranty
+2020-05-11 02:04:50,011 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 02:04:50,130 [main] INFO cosac - User clicked on  BrokerWarrantyTransactions
+2020-05-11 02:04:55,156 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 02:04:55,246 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 02:05:25,471 [main] INFO cosac - Account nO is--->940
+2020-05-11 03:12:01,241 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 03:12:01,468 [main] INFO cosac - User is clicked on Create
+2020-05-11 03:12:04,398 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 03:12:06,012 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:12:18,954 [main] INFO cosac - !!!Duplicate Product!!!
+2020-05-11 03:14:21,501 [main] INFO cosac - Test Failed
+2020-05-11 03:14:27,892 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 03:14:28,049 [main] INFO cosac - User able to click on Create
+2020-05-11 03:14:30,077 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 03:14:32,523 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:16:59,270 [main] INFO cosac - Test Failed
+2020-05-11 03:18:08,729 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 03:18:08,916 [main] INFO cosac - User is clicked on Create
+2020-05-11 03:18:09,816 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 03:18:12,016 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:18:39,568 [main] INFO cosac - Product Saved Successfully
+2020-05-11 03:18:39,614 [main] INFO cosac - SKU is Verified Successfully
+2020-05-11 03:18:41,590 [main] INFO cosac - Test Failed
+2020-05-11 03:18:47,731 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 03:18:47,873 [main] INFO cosac - User able to click on Create
+2020-05-11 03:18:49,032 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 03:18:51,395 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:21:17,018 [main] INFO cosac - Test Failed
+2020-05-11 03:22:56,051 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 03:22:56,211 [main] INFO cosac - User is clicked on Create
+2020-05-11 03:22:57,843 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 03:22:59,432 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:23:26,296 [main] INFO cosac - Product Saved Successfully
+2020-05-11 03:23:26,339 [main] INFO cosac - SKU is Verified Successfully
+2020-05-11 03:23:28,227 [main] INFO cosac - Test Failed
+2020-05-11 03:23:34,353 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 03:23:34,498 [main] INFO cosac - User able to click on Create
+2020-05-11 03:23:35,464 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 03:23:37,821 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:26:03,357 [main] INFO cosac - Test Failed
+2020-05-11 03:44:54,375 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 03:44:54,527 [main] INFO cosac - User is clicked on Create
+2020-05-11 03:44:55,517 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 03:44:57,521 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:45:22,270 [main] INFO cosac - Product Saved Successfully
+2020-05-11 03:45:22,326 [main] INFO cosac - SKU is Verified Successfully
+2020-05-11 03:45:24,278 [main] INFO cosac - Test Failed
+2020-05-11 03:45:30,291 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 03:45:30,448 [main] INFO cosac - User able to click on Create
+2020-05-11 03:45:31,403 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 03:45:33,805 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 03:47:59,526 [main] INFO cosac - Test Failed
+2020-05-11 08:11:02,434 [main] INFO cosac - Test Failed
+2020-05-11 08:13:10,433 [main] INFO cosac - Test Failed
+2020-05-11 08:29:26,847 [main] INFO cosac - User is clicked on Merchandising
+2020-05-11 08:29:27,114 [main] INFO cosac - User is clicked on Create
+2020-05-11 08:29:31,769 [main] INFO cosac - User clicked on Regularstock
+2020-05-11 08:29:34,395 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 08:30:02,823 [main] INFO cosac - Product Saved Successfully
+2020-05-11 08:30:02,931 [main] INFO cosac - SKU is Verified Successfully
+2020-05-11 08:30:05,263 [main] INFO cosac - Test Failed
+2020-05-11 08:30:17,928 [main] INFO cosac - User able to click on Merchandising
+2020-05-11 08:30:18,096 [main] INFO cosac - User able to click on Create
+2020-05-11 08:30:19,414 [main] INFO cosac - User able to click on Purchase Order
+2020-05-11 08:30:21,989 [main] INFO cosac - Page Title is Verified Successfully
+2020-05-11 08:32:49,421 [main] INFO cosac - Test Failed
+2020-05-11 08:34:02,473 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-11 08:34:02,492 [main] INFO cosac - User is in Create Location Page
+2020-05-11 08:34:07,325 [main] INFO cosac - User Filled the Location Creation form successfully
+2020-05-11 08:34:10,482 [main] INFO cosac - Location Creation Message-->Location saved successfully
+2020-05-11 08:34:10,621 [main] INFO cosac - User validated Locationvalue successfully-->131014
+2020-05-11 08:34:10,622 [main] INFO cosac - User is able to Create Location successfully
+2020-05-11 08:34:13,027 [main] INFO cosac - User is in Location Search Page
+2020-05-11 08:34:19,591 [main] INFO cosac - User Validated LocationName successfully-->PORTLAND
+2020-05-11 08:34:19,632 [main] INFO cosac - User  Validated Sales SystemId successfully-->308
+2020-05-11 08:34:19,675 [main] INFO cosac - User  Validated warehouse Status successfully-->Yes
+2020-05-11 08:34:19,721 [main] INFO cosac - User  Validated Active Status successfully-->Yes
+2020-05-11 08:34:19,769 [main] INFO cosac - User  Validated Virtual Status successfully-->Yes
+2020-05-11 08:34:19,769 [main] INFO cosac - User successfully Validated Location Search 
+2020-05-11 08:34:27,132 [main] INFO cosac - Test Failed
+2020-05-11 08:34:31,931 [main] INFO cosac - User is in Vendor searchPage 
+2020-05-11 08:45:23,293 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 08:45:23,581 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-11 08:45:25,336 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-11 08:45:33,855 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-05-11 08:50:22,225 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 08:50:22,444 [main] INFO cosac - User verified HomePage Title successfully
+2020-05-11 08:50:24,257 [main] INFO cosac - User verified Create Location PageLabel Successfully
+2020-05-11 08:50:32,058 [main] INFO cosac - User Filled the Local vendor creation form successfully 
+2020-05-11 08:50:34,205 [main] INFO cosac - Caught the Success Message successfully--->Vendor saved successfully
+2020-05-11 08:50:42,722 [main] INFO cosac - Toast TagMessage is --->Vendor tag saved successfully
+2020-05-11 08:50:42,837 [main] INFO cosac - User successfully validated vendorName
+2020-05-11 08:50:42,838 [main] INFO cosac - User is able to Create Local vendor
+2020-05-11 08:50:48,259 [main] INFO cosac - User is in Vendor searchPage 
+2020-05-11 08:50:51,614 [main] INFO cosac - VendorCode-->201598
+2020-05-11 08:50:51,653 [main] INFO cosac - VendorName-->HASSAN BAKER TRADER
+2020-05-11 08:50:51,697 [main] INFO cosac - Vendortype-->Local
+2020-05-11 08:50:51,740 [main] INFO cosac - VendorStatus-->Active
+2020-05-11 08:50:51,780 [main] INFO cosac - User successfully Validated Local_Vendor Search
+2020-05-11 08:50:59,074 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 08:50:59,081 [main] INFO cosac - User verified Page Title successfully
+2020-05-11 08:51:01,866 [main] INFO cosac - User verified Vendor Label successfully
+2020-05-11 08:51:01,866 [main] INFO cosac - User is in Create Vendor Page
+2020-05-11 08:51:16,586 [main] INFO cosac - User is able to Create vendor
+2020-05-11 08:51:28,407 [main] INFO cosac - User has successfully Validated CARICOM_Vendor Search
+2020-05-11 08:51:38,505 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-11 08:53:55,013 [main] INFO cosac - Test Failed
+2020-05-11 08:54:01,790 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 08:54:03,193 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-11 08:54:03,662 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-11 08:54:04,133 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-11 08:54:14,500 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-05-11 08:54:16,506 [main] INFO cosac - Test Failed
+2020-05-11 08:54:26,735 [main] INFO cosac - User verified Company Logo successfully
+2020-05-11 08:54:26,764 [main] INFO cosac - User has verified Page Title successfully
+2020-05-11 08:54:26,898 [main] INFO cosac - User Clicked on Merchandising
+2020-05-11 08:54:28,152 [main] INFO cosac - User Clicked on Product Hierarchy
+2020-05-11 08:54:28,251 [main] INFO cosac - User validated Product Hierarchy Label successfully
+2020-05-11 08:54:36,868 [main] INFO cosac - User clicked on Division save button
+2020-05-11 08:54:36,939 [main] INFO cosac - User  Created Division successfully and Message is-->Tag JEWELLARY created under Level Division
+2020-05-11 08:54:43,619 [main] INFO cosac - User  Created Department successfully and Message is -->Tag GOLD created under Level Department
+2020-05-11 08:54:49,270 [main] INFO cosac - User  Created Clas successfully and Message is-->Tag KGF GOLD created under Level Class
+2020-05-11 08:54:49,271 [main] INFO cosac - User  Created Division,Department,Class successfully 
+2020-05-11 08:54:56,541 [main] INFO cosac - User clicked on merchandising
+2020-05-11 08:54:58,922 [main] INFO cosac - User clicked on product enquiry
+2020-05-11 08:55:00,410 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-11 08:55:01,302 [main] INFO cosac - User entered the product code
+2020-05-11 08:55:03,449 [main] INFO cosac - User selected required product for next process
+2020-05-11 08:55:11,329 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-05-11 08:55:11,506 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-05-11 08:55:11,650 [main] INFO cosac - User noted the stockcount of the product
+2020-05-11 08:55:11,752 [main] INFO cosac - clicked on merchandising
+2020-05-11 08:55:12,052 [main] INFO cosac - clicked on direct receipt
+2020-05-11 08:55:16,097 [main] INFO cosac - USer successfully logged into Direct Receipt page
+2020-05-11 08:55:19,900 [main] INFO cosac - User successfully selected the receiving location
+2020-05-11 08:55:23,447 [main] INFO cosac - User successfully selected the vendor
+2020-05-11 08:55:23,712 [main] INFO cosac - User successfully selected the receiving person
+2020-05-11 08:55:23,939 [main] INFO cosac - User successfully entered the vendor referance number
+2020-05-11 08:55:24,161 [main] INFO cosac - User successfully entered the vendor invoice number
+2020-05-11 08:55:27,651 [main] INFO cosac - User successfully selected the referance option
+2020-05-11 08:55:27,788 [main] INFO cosac - User successfully entered contacts details
+2020-05-11 08:55:28,305 [main] INFO cosac - User successfully updated comment details
+2020-05-11 08:55:34,232 [main] INFO cosac - User successfully entered product code and selected
+2020-05-11 08:55:34,368 [main] INFO cosac - User successfully entered product code and selected
+2020-05-11 08:55:34,820 [main] INFO cosac - User successfully updated comment details of product
+2020-05-11 08:55:34,961 [main] INFO cosac - product added successfully
+2020-05-11 08:55:35,103 [main] INFO cosac - User successfully clicked on create receipt button
+2020-05-11 08:55:35,104 [main] INFO cosac - User successfully logged into directreceipt page for approval
+2020-05-11 08:55:54,305 [main] INFO cosac - User successfully clicked on approved button
+2020-05-11 08:55:54,460 [main] INFO cosac - User successfully clicked on print cost button for printing
+2020-05-11 08:55:58,585 [main] INFO cosac - Clicked on ok button for confirmation
+2020-05-11 08:56:02,607 [main] INFO cosac - User is now successfully switched back to main page from print page
+2020-05-11 08:56:04,926 [main] INFO cosac - User is in Product Enquiry page
+2020-05-11 08:56:14,010 [main] INFO cosac - USer is in sapre part maintenance page
+2020-05-11 08:56:14,127 [main] INFO cosac - User successfully noted the stock value after DRN generated
+2020-05-11 09:05:55,552 [main] INFO cosac - User are in Outstanding SR Per Product Department
+2020-05-11 09:05:59,125 [main] INFO cosac - User is able to Select Procuct Department
+2020-05-11 09:06:02,995 [main] INFO cosac - Number of total matching records: 30
+2020-05-11 09:06:12,898 [main] INFO cosac - User are in Service Request Financial Report
+2020-05-11 09:06:24,271 [main] INFO cosac - User is able to Select Procuct Department
+2020-05-11 09:06:56,442 [main] INFO cosac - User use able to see the Report with result Count: 1
+1801720
+EW
+02/05/2019
+203001
+AUDIO
+1382
+03/05/2019
+2930
+SRY
+1214.0000
+2020-05-11 09:06:56,671 [main] INFO cosac - First SR Num: 1801720& First Amount: 1214.0
+2020-05-11 09:06:56,672 [main] INFO cosac - Second SR Num: 1801720& Second Amount: -1214.0000
+2020-05-11 09:06:56,673 [main] INFO cosac - User is able to get data with CreditAmount - DebitAmount=0
+2020-05-11 09:10:44,565 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-05-11 09:10:48,149 [main] INFO cosac - User is able to Select KPI
+2020-05-11 09:10:51,783 [main] INFO cosac - User is able to Select Location
+2020-05-11 09:10:55,308 [main] INFO cosac - User is able to Select Division
+2020-05-11 09:10:55,394 [main] INFO cosac - User is able to Click to Serch Report
+2020-05-11 09:12:00,782 [main] INFO cosac - User use able to se the Report with result Count: 54 results found.
+2020-05-11 09:12:11,343 [main] INFO cosac - Hide show button verified
+2020-05-11 09:12:14,433 [main] INFO cosac - User is able to click to Print Button, Print Verified
+2020-05-11 09:15:37,560 [main] INFO cosac - User Clicked to merchandising
+2020-05-11 09:15:42,845 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-11 09:15:44,347 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-11 09:15:44,793 [main] INFO cosac - User Selected Product Status
+2020-05-11 09:15:47,915 [main] INFO cosac - User Selected Product Type
+2020-05-11 09:15:49,690 [main] INFO cosac - Test Failed
+2020-05-11 09:34:59,530 [main] INFO cosac - User Clicked to merchandising
+2020-05-11 09:37:03,786 [main] INFO cosac - Test Failed
+2020-05-11 09:39:04,576 [main] INFO cosac - Test Failed
+2020-05-11 09:41:43,508 [main] INFO cosac - Test Failed
+2020-05-11 09:41:51,900 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:41:53,569 [main] INFO cosac - User clicked o  Warrantysales
+2020-05-11 09:41:53,872 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:41:54,126 [main] INFO cosac - User Clcked on the Date To
+2020-05-11 09:41:54,498 [main] INFO cosac - User Selected Date and year on the DateWidget
+2020-05-11 09:41:54,631 [main] INFO cosac - User Selected DateFrom
+2020-05-11 09:41:55,897 [main] INFO cosac - User Selected Sales Type
+2020-05-11 09:43:23,898 [main] INFO cosac - Account nO is--->910000806241
+2020-05-11 09:43:50,038 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:43:55,185 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 09:44:00,326 [main] INFO cosac - User clicked o  WarrantyDue
+2020-05-11 09:44:05,359 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:44:05,467 [main] INFO cosac - User Selected facia
+2020-05-11 09:44:10,632 [main] INFO cosac - User Clcked on the Date To
+2020-05-11 09:44:11,346 [main] INFO cosac - User Selected Date From
+2020-05-11 09:44:11,737 [main] INFO cosac - User Selected Date To
+2020-05-11 09:44:31,885 [main] INFO cosac - No of Quantity is--->1
+2020-05-11 09:44:38,594 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:44:38,765 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 09:44:38,985 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-11 09:44:44,022 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:44:44,602 [main] INFO cosac - User Selected Date To
+2020-05-11 09:46:46,259 [main] INFO cosac - Test Failed
+2020-05-11 09:46:46,381 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:46:46,526 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 09:46:46,655 [main] INFO cosac - User clicked o  Warranty Returns
+2020-05-11 09:46:51,685 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:46:52,303 [main] INFO cosac - User Selected Date To
+2020-05-11 09:46:52,490 [main] INFO cosac - User Selected Date To
+2020-05-11 09:46:52,491 [main] INFO cosac - User Clcked on the Date From
+2020-05-11 09:47:03,422 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 09:49:23,864 [main] INFO cosac - Test Failed
+2020-05-11 09:49:23,959 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:49:24,163 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 09:49:24,266 [main] INFO cosac - User clicked on  SecondeffortSolitationreports
+2020-05-11 09:49:29,303 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:49:31,651 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 09:52:02,179 [main] INFO cosac - Test Failed
+2020-05-11 09:52:02,283 [main] INFO cosac - User clicked on warranty
+2020-05-11 09:52:02,416 [main] INFO cosac - User mouse hovered on Reports
+2020-05-11 09:52:02,587 [main] INFO cosac - User clicked on  BrokerWarrantyTransactions
+2020-05-11 09:52:07,616 [main] INFO cosac - User Validated PageLable Successfylly
+2020-05-11 09:52:07,751 [main] INFO cosac - User Selected facia,ReturnType and warrantyType
+2020-05-11 09:52:38,084 [main] INFO cosac - Account nO is--->940
+2020-05-11 09:53:01,571 [main] INFO cosac - User are in Outstanding SR Per Product Department
+2020-05-11 09:53:05,125 [main] INFO cosac - User is able to Select Procuct Department
+2020-05-11 09:53:07,231 [main] INFO cosac - Number of total matching records: 30
+2020-05-11 09:53:14,977 [main] INFO cosac - User are in Service Request Financial Report
+2020-05-11 09:53:26,078 [main] INFO cosac - User is able to Select Procuct Department
+2020-05-11 09:53:33,493 [main] INFO cosac - User use able to see the Report with result Count: 1
+1801720
+EW
+02/05/2019
+203001
+AUDIO
+1382
+03/05/2019
+2930
+SRY
+1214.0000
+2020-05-11 09:53:33,662 [main] INFO cosac - First SR Num: 1801720& First Amount: 1214.0
+2020-05-11 09:53:33,663 [main] INFO cosac - Second SR Num: 1801720& Second Amount: -1214.0000
+2020-05-11 09:53:33,663 [main] INFO cosac - User is able to get data with CreditAmount - DebitAmount=0
+2020-05-11 11:36:10,181 [main] INFO cosac - User Clicked to merchandising
+2020-05-11 11:36:19,135 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-11 11:36:20,321 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-11 11:36:20,706 [main] INFO cosac - User Selected Product Status
+2020-05-11 11:36:23,828 [main] INFO cosac - User Selected Product Type
+2020-05-11 11:36:23,984 [main] INFO cosac - User Clicked to Product
+2020-05-11 11:36:40,573 [main] INFO cosac - User able to comlete Export setting field
+2020-05-11 11:36:48,936 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-11 11:36:51,412 [main] INFO cosac - Test Failed
+2020-05-11 11:37:58,785 [main] INFO cosac - User Clicked to merchandising
+2020-05-11 11:38:04,309 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-11 11:38:04,805 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-11 11:38:05,865 [main] INFO cosac - User Selected Product Status
+2020-05-11 11:38:08,986 [main] INFO cosac - User Selected Product Type
+2020-05-11 11:38:09,088 [main] INFO cosac - User Clicked to Product
+2020-05-11 11:38:26,946 [main] INFO cosac - User able to comlete Export setting field
+2020-05-11 11:38:35,282 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-11 11:38:37,955 [main] INFO cosac - Test Failed
+2020-05-12 02:50:47,258 [main] INFO cosac - User Clicked to merchandising
+2020-05-12 02:50:54,974 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-12 02:50:56,365 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-12 02:50:56,486 [main] INFO cosac - User Selected Product Status
+2020-05-12 02:50:59,594 [main] INFO cosac - User Selected Product Type
+2020-05-12 02:51:00,308 [main] INFO cosac - User Clicked to Product
+2020-05-12 02:51:16,129 [main] INFO cosac - User able to comlete Export setting field
+2020-05-12 02:51:24,688 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-12 02:51:27,357 [main] INFO cosac - Test Failed
+2020-05-12 02:54:58,891 [main] INFO cosac - User Clicked to merchandising
+2020-05-12 02:55:04,248 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-12 02:55:04,677 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-12 02:55:06,100 [main] INFO cosac - User Selected Product Status
+2020-05-12 02:55:09,193 [main] INFO cosac - User Selected Product Type
+2020-05-12 02:55:09,291 [main] INFO cosac - User Clicked to Product
+2020-05-12 02:55:24,754 [main] INFO cosac - User able to comlete Export setting field
+2020-05-12 02:55:33,477 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-12 02:55:36,746 [main] INFO cosac - Test Failed
+2020-05-12 05:16:30,925 [main] INFO cosac - User Clicked to merchandising
+2020-05-12 05:16:37,907 [main] INFO cosac - User Clicked Product Enquiry
+2020-05-12 05:16:38,765 [main] INFO cosac - User is in Product Enquiry Page
+2020-05-12 05:16:39,297 [main] INFO cosac - User Selected Product Status
+2020-05-12 05:16:42,402 [main] INFO cosac - User Selected Product Type
+2020-05-12 05:16:43,176 [main] INFO cosac - User Clicked to Product
+2020-05-12 05:16:59,566 [main] INFO cosac - User able to comlete Export setting field
+2020-05-12 05:17:08,060 [main] INFO cosac - User verified Cost Pricing Field
+2020-05-12 05:17:11,003 [main] INFO cosac - Test Failed
+2020-05-12 05:24:52,737 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-12 05:25:09,974 [main] INFO cosac - ProductCode -->CMT08C
+2020-05-12 05:25:10,109 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-12 05:25:21,389 [main] INFO cosac - onhand quantity in recieving location are-->0
+2020-05-12 05:25:21,435 [main] INFO cosac - available quantity in recieving location are-->0
+2020-05-12 05:25:21,490 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-05-12 05:25:21,542 [main] INFO cosac - User switched to parent window
+2020-05-12 05:25:21,581 [main] INFO cosac - Purchage order No -->21131
+2020-05-12 05:25:21,617 [main] INFO cosac -  Quantity pending -->10
+2020-05-12 05:25:28,791 [main] INFO cosac - Back order Quantity-->9
+2020-05-12 05:25:28,904 [main] INFO cosac - User clicked on Create reciept Button successfully
+2020-05-12 05:25:47,206 [main] INFO cosac - User got the Goods reciept No-->38334
+2020-05-12 05:27:48,254 [main] INFO cosac - Test Failed
+2020-05-12 05:42:23,491 [main] INFO cosac - User are in Create Goods Reciept Page
+2020-05-12 05:42:40,732 [main] INFO cosac - ProductCode -->CMT08C
+2020-05-12 05:42:40,863 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-12 05:42:51,476 [main] INFO cosac - onhand quantity in recieving location are-->0
+2020-05-12 05:42:51,634 [main] INFO cosac - available quantity in recieving location are-->0
+2020-05-12 05:42:51,687 [main] INFO cosac - On order quantity in recieving location are-->0
+2020-05-12 05:42:51,757 [main] INFO cosac - User switched to parent window
+2020-05-12 05:42:51,800 [main] INFO cosac - Purchage order No -->21131
+2020-05-12 05:42:51,849 [main] INFO cosac -  Quantity pending -->8
+2020-05-12 05:42:59,013 [main] INFO cosac - Back order Quantity-->7
+2020-05-12 05:42:59,179 [main] INFO cosac - User clicked on Create reciept Button successfully
+2020-05-12 05:43:06,795 [main] INFO cosac - User got the Goods reciept No-->38337
+2020-05-12 05:43:10,034 [main] INFO cosac - User switched to new window GRN cost Page
+2020-05-12 05:43:10,076 [main] INFO cosac - User switched to new window Validated Goods reciept No
+2020-05-12 05:43:10,119 [main] INFO cosac - User switched to new window Validated Purchage order No
+2020-05-12 05:43:20,241 [main] INFO cosac - User switched to parent window
+2020-05-12 05:43:45,541 [main] INFO cosac - User switched to new window and checked the quantity available
+2020-05-12 05:43:57,185 [main] INFO cosac - updated onhand quantity in recieving location are-->0
+2020-05-12 05:43:57,233 [main] INFO cosac - Updated available quantity in recieving location are-->0
+2020-05-12 05:43:57,293 [main] INFO cosac - Up dated On order quantity in recieving location are-->0
+2020-05-12 05:43:57,342 [main] INFO cosac - User switched to parent window
+2020-05-12 05:44:02,342 [main] INFO cosac - User is in goods reciept Page
+2020-05-12 05:45:12,891 [main] INFO cosac - User Clicked on Merchandising
+2020-05-12 05:45:14,709 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-12 05:45:15,048 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-12 05:45:15,532 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-12 05:45:25,713 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-05-12 05:45:27,997 [main] INFO cosac - Test Failed
+2020-05-12 05:59:05,364 [main] INFO cosac - User Clicked on Merchandising
+2020-05-12 05:59:05,228 [main] INFO cosac - User Clicked on Merchandising
+2020-05-12 05:59:07,930 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-12 05:59:08,254 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-12 05:59:08,357 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-12 05:59:08,557 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-12 05:59:08,891 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-12 05:59:08,906 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-12 06:00:17,868 [main] INFO cosac - Test Failed
+2020-05-12 06:01:14,778 [main] INFO cosac - Test Failed
+2020-05-12 06:02:30,272 [main] INFO cosac - User Clicked on Merchandising
+2020-05-12 06:02:32,062 [main] INFO cosac - User Clicked on Top Sku reports
+2020-05-12 06:02:32,552 [main] INFO cosac - User is in Top SKU Reports Page
+2020-05-12 06:02:32,975 [main] INFO cosac - User Selected from date and to date successfully
+2020-05-12 06:02:43,763 [main] INFO cosac - User Selected Division,Department,Class and Location successfully
+2020-05-12 06:02:43,860 [main] INFO cosac - User Clicked on Search button and result is displayed successfully
+2020-05-12 06:03:11,950 [main] INFO cosac - Sku No in results found is-->4000E8
+2020-05-12 06:03:11,992 [main] INFO cosac - No of quantities available in results are -->2
+2020-05-12 06:03:12,072 [main] INFO cosac - NetsaleValue in results is -->$ 100,796.00
+2020-05-12 06:03:12,213 [main] INFO cosac - User Clicked on Print Button successfully
+2020-05-12 06:03:13,315 [main] INFO cosac - Sku No in printpage is-->4000E8
+2020-05-12 06:03:13,378 [main] INFO cosac - No of quantities available in printpage are -->2
+2020-05-12 06:03:13,437 [main] INFO cosac - NetsaleValue in printpage is -->$ 100,796.00
+2020-05-12 06:03:13,437 [main] INFO cosac - User navigated to print page and validated mandatory data
+2020-05-12 06:08:56,767 [main] INFO cosac - User clicked on merchandising
+2020-05-12 06:08:58,585 [main] INFO cosac - User clicked on product enquiry
+2020-05-12 06:09:00,303 [main] INFO cosac - User successfully logged into Product Enquiry page
+2020-05-12 06:09:01,108 [main] INFO cosac - User entered the product code
+2020-05-12 06:09:03,210 [main] INFO cosac - User selected required product for next process
+2020-05-12 06:09:09,876 [main] INFO cosac - User successfully logged into spare part maintenance page
+2020-05-12 06:09:10,188 [main] INFO cosac - User scrolled down to required location for noting the stock value
+2020-05-12 06:09:10,353 [main] INFO cosac - User noted the stockcount of the product
+2020-05-12 06:09:10,495 [main] INFO cosac - clicked on merchandising
+2020-05-12 06:09:10,730 [main] INFO cosac - clicked on direct receipt
+2020-05-12 06:09:14,779 [main] INFO cosac - USer successfully logged into Direct Receipt page
+2020-05-12 06:09:18,680 [main] INFO cosac - User successfully selected the receiving location
+2020-05-12 06:09:22,145 [main] INFO cosac - User successfully selected the vendor
+2020-05-12 06:09:22,640 [main] INFO cosac - User successfully selected the receiving person
+2020-05-12 06:09:22,851 [main] INFO cosac - User successfully entered the vendor referance number
+2020-05-12 06:09:23,034 [main] INFO cosac - User successfully entered the vendor invoice number
+2020-05-12 06:09:26,500 [main] INFO cosac - User successfully selected the referance option
+2020-05-12 06:09:26,647 [main] INFO cosac - User successfully entered contacts details
+2020-05-12 06:09:27,165 [main] INFO cosac - User successfully updated comment details
+2020-05-12 06:09:32,591 [main] INFO cosac - User successfully entered product code and selected
+2020-05-12 06:09:32,789 [main] INFO cosac - User successfully entered product code and selected
+2020-05-12 06:09:33,197 [main] INFO cosac - User successfully updated comment details of product
+2020-05-12 06:09:33,310 [main] INFO cosac - product added successfully
+2020-05-12 06:09:33,467 [main] INFO cosac - User successfully clicked on create receipt button
+2020-05-12 06:09:33,467 [main] INFO cosac - User successfully logged into directreceipt page for approval
+2020-05-12 06:09:50,404 [main] INFO cosac - User successfully clicked on approved button
+2020-05-12 06:09:50,594 [main] INFO cosac - User successfully clicked on print cost button for printing
+2020-05-12 06:09:54,708 [main] INFO cosac - Clicked on ok button for confirmation
+2020-05-12 06:09:58,784 [main] INFO cosac - User is now successfully switched back to main page from print page
+2020-05-12 06:10:00,686 [main] INFO cosac - User is in Product Enquiry page
+2020-05-12 06:10:10,347 [main] INFO cosac - USer is in sapre part maintenance page
+2020-05-12 06:10:10,552 [main] INFO cosac - User successfully noted the stock value after DRN generated
+2020-05-12 06:10:10,553 [main] INFO cosac - User successfully validated teh total quantity added to the location
+2020-05-12 06:10:10,665 [main] INFO cosac - User is in Home Page
+2020-05-12 06:11:38,315 [main] INFO cosac - User Clicked on Merchandising
+2020-05-12 06:11:39,629 [main] INFO cosac - User Clicked on Spare Part
+2020-05-12 06:11:41,893 [main] INFO cosac - User are in Create Spare Part Page
+2020-05-12 06:11:42,323 [main] INFO cosac - User Entered Description
+2020-05-12 06:11:44,248 [main] INFO cosac - User Entered Long Description
+2020-05-12 06:11:44,550 [main] INFO cosac - User Entered PartNumber
+2020-05-12 06:11:45,207 [main] INFO cosac - User Entered Long Vendor Model Number
+2020-05-12 06:11:49,560 [main] INFO cosac - User Selected Primary Vendor
+2020-05-12 06:11:49,735 [main] INFO cosac - User is able to save Spare Party
+2020-05-12 06:12:08,546 [main] INFO cosac - User is able to search Product with product status: Active Current
+2020-05-12 06:13:08,565 [main] INFO cosac - Product Creation Starts
+2020-05-12 06:15:21,038 [main] INFO cosac - Product Validation Starts
+2020-05-12 07:05:03,047 [main] INFO cosac - Product Creation Starts
+2020-05-12 07:07:20,286 [main] INFO cosac - Product Validation Starts
+2020-05-12 07:07:35,558 [main] INFO cosac - User are in Buyer Sales History Report Page
+2020-05-12 07:07:39,053 [main] INFO cosac - User is able to Select KPI
+2020-05-12 07:07:42,543 [main] INFO cosac - User is able to Select Location
+2020-05-12 07:07:45,967 [main] INFO cosac - User is able to Select Division
+2020-05-12 07:07:46,042 [main] INFO cosac - User is able to Click to Serch Report
+2020-05-12 07:08:44,242 [main] INFO cosac - User use able to se the Report with result Count: 54 results found.
+2020-05-12 07:08:54,628 [main] INFO cosac - Hide show button verified
+2020-05-12 07:08:57,732 [main] INFO cosac - User is able to click to Print Button, Print Verified

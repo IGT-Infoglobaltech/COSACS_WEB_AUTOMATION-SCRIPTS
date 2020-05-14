@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [COSAC]">
+  <parameter name="browser" value="chrome"/>
+  <test name="cosacProject Chrome Test7(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.cosac.TestCases.COS17_GoodsReceipt">
+        <methods>
+          <include name="launchChrome"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS17_GoodsReceipt -->
+      <class name="com.cosac.TestCases.COS_18_Directreceipt">
+        <methods>
+          <include name="Directreceipt_form"/>
+          <include name="Directreceipt_stockcount_afterDRN"/>
+          <include name="launchChrome"/>
+          <include name="close"/>
+          <include name="Directreceipt_verify_stockcount"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS_18_Directreceipt -->
+      <class name="com.cosac.TestCases.COS100_TopSKUReports">
+        <methods>
+          <include name="launchChrome"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS100_TopSKUReports -->
+      <class name="com.cosac.TestCases.Cos03_VendorCreation">
+        <methods>
+          <include name="launchChrome"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.Cos03_VendorCreation -->
+      <class name="com.cosac.TestCases.COS04_LocalVendorCreation">
+        <methods>
+          <include name="launchChrome"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS04_LocalVendorCreation -->
+      <class name="com.cosac.TestCases.COS02_ProductHierarchy">
+        <methods>
+          <include name="launchChrome"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS02_ProductHierarchy -->
+    </classes>
+  </test> <!-- cosacProject Chrome Test7(failed) -->
+</suite> <!-- Failed suite [COSAC] -->

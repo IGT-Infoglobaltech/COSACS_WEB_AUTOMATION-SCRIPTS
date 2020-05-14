@@ -1,0 +1,29 @@
+
+
+
+{
+	"locationData": 
+	{
+		"cos01": 
+		{
+			
+			"Title"		:"Cosacs",
+			"ExpectedLabel"	:"Create Location",
+     			"LocationId"   	:"131014",  
+      		"SalesSystemId"  :"308",
+      		"Name"    :  	"PORTLAND",
+     			 "AddressLine1"   :   "#233 st.Road jamaica",
+			"AddressLine2"   :   	"#233 st.Road jamaica",
+			"City"   :    		"jamaica",
+			"PostalCode"   	:    	"568896",
+			"ContactSearch"   :   "Ho",
+			"ContactSelect"   :   "WorkPhone",
+			"ContactDeatils"   :  "9966554232",
+			"UserInfoMessage"   :	"Location saved 				successfully",
+			"Warehouse"	:"Yes",
+			"Active"		:"Yes",
+			"Virtual"		:"Yes"
+			
+		}
+	}
+}

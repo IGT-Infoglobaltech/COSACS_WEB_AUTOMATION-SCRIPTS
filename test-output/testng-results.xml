@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="COSAC" duration-ms="42537" started-at="2020-05-12T11:10:06Z" finished-at="2020-05-12T11:10:49Z">
+    <groups>
+    </groups>
+    <test name="cosacProject Chrome Test12" duration-ms="42537" started-at="2020-05-12T11:10:06Z" finished-at="2020-05-12T11:10:49Z">
+      <class name="com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply">
+        <test-method status="PASS" signature="launchChrome(java.lang.String)[pri:0, instance:com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply@5c1a8622]" name="launchChrome" is-config="true" duration-ms="6669" started-at="2020-05-12T07:10:06Z" finished-at="2020-05-12T07:10:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChrome -->
+        <test-method status="PASS" signature="Reports_WarehouseOversupply()[pri:0, instance:com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply@5c1a8622]" name="Reports_WarehouseOversupply" duration-ms="2420" started-at="2020-05-12T07:10:13Z" finished-at="2020-05-12T07:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports_WarehouseOversupply -->
+        <test-method status="PASS" signature="Reports_WarehouseOversupply1()[pri:0, instance:com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply@5c1a8622]" name="Reports_WarehouseOversupply1" duration-ms="32641" started-at="2020-05-12T07:10:16Z" depends-on-methods="com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply.Reports_WarehouseOversupply" finished-at="2020-05-12T07:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports_WarehouseOversupply1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply@5c1a8622]" name="close" is-config="true" duration-ms="774" started-at="2020-05-12T07:10:48Z" finished-at="2020-05-12T07:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.cosac.TestCases.COS103_Merchandising_Warehouse_OverSupply -->
+    </test> <!-- cosacProject Chrome Test12 -->
+  </suite> <!-- COSAC -->
+</testng-results>

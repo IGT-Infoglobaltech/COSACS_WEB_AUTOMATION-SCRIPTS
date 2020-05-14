@@ -1,0 +1,34 @@
+
+
+
+{
+	"vendordata": 
+	{
+		"cos04": 
+		{
+				
+     			"Title"   		: "Cosacs",  
+      		"Expectedcreate_VendorLabel"  :  "Create Vendor",
+      		"vendorcode"    : "201592",
+			"vendorName"    : "MaxTrader",
+     			"eleText"   	: "Local",
+			"AddressLine1" 	: "#233 church steet Kingston",
+			"City"   		: "PortMore",
+			"State"   		: "Kingston",
+			"Postcode"   	: "586828",
+			"IsoCode"   	: "86",
+			"Currency"		: "USD",
+			"PaymentTerms"   : "30 days",
+			"Status"		:  "Active",
+			"Contact_Email"	:  "Kingston13345@vhj.com",
+			"Contact"		:  "Co",
+			"ContactEmail"	:  "Contact Email",
+			"Tag_Search"	:  "s",
+			"TagText"		:  "Supply Spares Only",
+			"VendorMessage"	:  "Vendor saved successfully",
+			"AddTagMessage"	:  "Vendor tag saved successfully",
+			"Vendorsearch_label"	:"Vendor Search"
+		
+		}
+	}
+}
